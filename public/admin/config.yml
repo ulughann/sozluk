@@ -16,7 +16,7 @@ collections:
 
 backend:
   name: github
-  repo: ulughann/tonga
+  repo: ulughann/sozluk
   open_authoring: true
   auth_scope: repo
 
