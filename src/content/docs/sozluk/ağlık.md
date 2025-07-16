@@ -5,6 +5,6 @@ synonyms:
   - website
   - site
 ---
-İnternet -> Genel ağ çevirisinden İnternet Sitesi için de "ağlık" sözcüğü uygun görülebilir.
+İnternet -> [Genel ağ](/genel_ağ) çevirisinden İnternet Sitesi için de "ağlık" sözcüğü uygun görülebilir.
 
 **Ağ** sözcüğü özünde "tuzak" anlamına gelirken Çağdaş Türkiye Türkçesinde *örümcek ağı* bennzeri olup kişiler/nesneler arasındaki bağları anlatan bir sözcük olarak da kulllanılmaktadır.
