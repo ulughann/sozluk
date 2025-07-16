@@ -39,28 +39,29 @@ let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
       synonymContainer.addEventListener("click", (e) => {
         const target = e.target;
         console.log("Synonym clicked:", target?.textContent);
-       
-        if (target && target.hasAttribute("data-synonym")) {
-            // Simulate Ctrl+K and write the textContent
-            const synonym = target.textContent;
-            const textarea = document.querySelector("textarea, input[type='text']");
-            if (textarea) {
-                textarea.focus();
-                // Simulate Ctrl+K (commonly used for link insertion in editors)
-                const event = new KeyboardEvent("keydown", {
-                    key: "k",
-                    code: "KeyK",
-                    ctrlKey: true,
-                    bubbles: true,
-                });
-                textarea.dispatchEvent(event);
-                // Insert the synonym text (simulate typing)
-                document.execCommand("insertText", false, synonym);
-            }
-        }
-
+        openAndFillSearch(target?.textContent || "");
     });
     }
   });
+
+    function openAndFillSearch(query: string) {
+        const openModalButton = document.querySelector<HTMLButtonElement>(
+            'site-search [data-open-modal]'
+        );setTimeout(() => {
+          if (openModalButton) {
+            openModalButton.click();
+          }
+        }, 50); // Wait for 500 milliseconds
+        
+        if (!openModalButton) return;
+        console.log("test")
+        openModalButton.click();
+
+        const input = document.querySelector<HTMLInputElement>('site-search input');
+        if (!input) return;
+        input.value = query;
+        input.dispatchEvent(new InputEvent('input', { bubbles: true, cancelable: true }));
+    }
+
 
 </script>
