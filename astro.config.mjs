@@ -17,6 +17,7 @@ export default defineConfig({
       ],
       components: {
         PageTitle: "./src/components/starlight/PageTitle.astro",
+        Page: "./src/components/starlight/Page.astro","
       },
       title: "Sözlük",
       pagination: false,
