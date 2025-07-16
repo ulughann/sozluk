@@ -4,7 +4,7 @@
   "search.ctrlKey": "Ctrl",
   "search.cancelLabel": "Yoka çıkar",
   "search.devWarning": "Search is only available in production builds. \nTry building and previewing the site to test it out locally.",
-  "themeSelect.accessibleLabel": "Select theme",
+  "themeSelect.accessibleLabel": "Görünüm seçin",
   "themeSelect.dark": "Kara",
   "themeSelect.light": "Açık",
   "themeSelect.auto": "Var sayılan",
