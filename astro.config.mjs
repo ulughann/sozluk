@@ -18,7 +18,6 @@ export default defineConfig({
       sidebar: [
         {
           label: "Sözlük",
-          // Autogenerate a group of links for the 'constellations' directory.
           autogenerate: { directory: "sozluk" },
         },
       ],
