@@ -1,0 +1,25 @@
+collections:
+  - name: "sozluk"
+    label: "Sözlük"
+    description: "Sözlük - kelime ekle"
+    folder: "src/content/docs/sozluk/" 
+    create: true
+    fields: 
+      - { label: "Name", name: "title", widget: "string" }
+      - { label: "Explanation", name: "text", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", required: false }
+      - { label: "Turkish", name: "tr", widget: "description", required: false }
+      - label: "Synonyms"
+        name: "synonyms"
+        widget: "list"
+        allow_add: true
+
+backend:
+  name: github
+  repo: ulughann/tonga
+  open_authoring: true
+  auth_scope: repo
+
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads" 
+public_folder: "/images/uploads"
