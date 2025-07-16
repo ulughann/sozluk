@@ -32,7 +32,14 @@ export default defineConfig({
         {
           label: "Sözlük",
           autogenerate: { directory: "sozluk" },
+          collapsed: true,
         },
+        {
+          label: "Ekler",
+          autogenerate: { directory: "ekler" },
+          collapsed: true,
+        }
+        
       ],
     }),
   ],
