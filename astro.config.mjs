@@ -1,9 +1,11 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-import starlightSiteGraph from "starlight-site-graph";
+import starlightThemeObsidian from 'starlight-theme-obsidian'
 // https://astro.build/config
 export default defineConfig({
-  plugins: [starlightSiteGraph()],
+  plugins: [starlightThemeObsidian()],
+  site: "https://sozluk.onrir.dev",
+  base: "/",
   integrations: [
     starlight({
       sidebar: [
