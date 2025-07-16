@@ -6,7 +6,6 @@ collections:
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Açıklama", name: "text", widget: "text" }
       - { label: "Tarih", name: "date", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
@@ -21,6 +20,7 @@ collections:
         value_field: "title"
         display_fields: ["title"]
         required: false
+      - { label: "İçerik", name: "body", widget: "markdown" }
 
 backend:
   name: github

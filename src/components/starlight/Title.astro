@@ -1,0 +1,35 @@
+---
+const { title } = Astro.locals.starlightRoute.entry.data;
+const { synonyms } = Astro.locals.starlightRoute.entry.data.synonyms || [];
+---
+
+<h1 id="_top">{title}</h1>
+{synonyms.length > 0 && (
+  <ul>
+    {synonyms.map((synonym: string) => (
+      <li>{synonym}</li>
+    ))}
+  </ul>
+)}
+
+<style>
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.5em 0 0 0;
+    display: flex;
+    gap: 0.5em;
+}
+
+li {
+    display: inline-block;
+    background: #e0e7ef;
+    color: #2d3a4a;
+    border-radius: 999px;
+    padding: 0.2em 0.8em;
+    font-size: 0.9em;
+    font-weight: 500;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+    border: 1px solid #c3d0e0;
+}
+</style>
