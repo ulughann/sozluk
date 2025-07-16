@@ -27,6 +27,6 @@
   "fileTree.directory": "Dizi",
   "builtWithStarlight.label": "Starlight ile oluşturuldu",
   "heading.anchorLabel": "Section titled “{{title}}”",
-  "starlight-site-graph.graph": "Kuşbakımı Görüntü",
+  "starlight-site-graph.graph": "Sözcük değresi",
   "starlight-site-graph.backlinks": "Bağlantılar"
 }
