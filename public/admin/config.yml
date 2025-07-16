@@ -12,14 +12,6 @@ collections:
         widget: "list"
         required: false
         allow_add: true
-      - label: "İlgi"
-        name: "relations"
-        widget: "relation"
-        collection: "sozluk"
-        search_fields: ["title"]
-        value_field: "title"
-        display_fields: ["title"]
-        required: false
       - { label: "İçerik", name: "body", widget: "markdown" }
 
 backend:

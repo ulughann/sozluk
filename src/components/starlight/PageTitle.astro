@@ -1,10 +1,9 @@
 ---
 import Default from '@astrojs/starlight/components/PageTitle.astro';
-let synonyms = 
 
-if (!synonyms) {
-  synonyms = [];
-}
+
+console.log(Astro.locals.starlightRoute.entry.data)
+let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
 ---
 
 
