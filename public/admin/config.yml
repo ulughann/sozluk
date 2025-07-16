@@ -5,14 +5,20 @@ collections:
     folder: "src/content/docs/sozluk/" 
     create: true
     fields: 
-      - { label: "Name", name: "title", widget: "string" }
-      - { label: "Explanation", name: "text", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime", required: false }
-      - { label: "Turkish", name: "tr", widget: "description", required: false }
-      - label: "Synonyms"
+      - { label: "Sözcük", name: "title", widget: "string" }
+      - { label: "Açıklama", name: "text", widget: "string" }
+      - { label: "Tarih", name: "date", widget: "datetime", required: false }
+      - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
         allow_add: true
+      - label: "İlgi"
+        name: "relations"
+        widget: "relation"
+        collection: "sozluk"
+        search_fields: ["title"]
+        value_field: "title"
+        display_fields: ["title"]
 
 backend:
   name: github
