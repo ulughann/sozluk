@@ -17,7 +17,7 @@ export default defineConfig({
       ],
       title: "Sözlük",
       pagination: false,
-      customCss: ["./src/styles/s.css"],
+      // customCss: ["./src/styles/s.css"],
       sidebar: [
         {
           label: "Sözlük",

@@ -1,11 +1,7 @@
- import { docsSchema } from '@astrojs/starlight/schema';
- import { defineCollection } from 'astro:content';
- import { pageSiteGraphSchema } from 'starlight-site-graph/schema';
+import { defineCollection } from 'astro:content';
+import { docsSchema } from '@astrojs/starlight/schema';
 
- export const collections = {
-   docs: defineCollection({
-     schema: docsSchema({
-       extend: pageSiteGraphSchema
-     })
-   })
- };
+export const collections = {
+	docs: defineCollection({ schema: docsSchema() }),
+};
+
