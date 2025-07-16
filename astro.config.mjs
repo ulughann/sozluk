@@ -7,6 +7,7 @@ export default defineConfig({
   base: "/",
   integrations: [
     starlight({
+      defaultLocale: 'tr-TR',
       plugins: [starlightThemeObsidian()],
       sidebar: [
         {
@@ -17,7 +18,7 @@ export default defineConfig({
       ],
       components: {
         PageTitle: "./src/components/starlight/PageTitle.astro",
-        Page: "./src/components/starlight/Page.astro","
+        Page: "./src/components/starlight/Page.astro",
       },
       title: "Sözlük",
       pagination: false,
