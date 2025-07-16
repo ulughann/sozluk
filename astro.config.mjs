@@ -8,29 +8,30 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      defaultLocale: "root",
+      defaultLocale: "tr",
       locales: {
-        root: {
-          lang: "en-US",
-          label: "English",
-        },
         tr: {
-          lang: "tr-TR",
-          label: "Turkish",
-        }
+          label: "Türkçe",
+        },
       },
       tableOfContents: false,
       title: "Sözlük",
       pagination: false,
       social: {
-        github: "https://github.com/onrirr",
+        github: "https://github.com/ulughann",
       },
       customCss: ["./src/styles/s.css"],
       components: {
         Head: "./src/components/starlight/Head.astro",
         Sidebar: "./src/components/starlight/Sidebar.astro",
       },
-     
+
+      sidebar: [
+        {
+          label: "Sözlük",
+          autogenerate: { directory: "sozluk" },
+        },
+      ],
     }),
   ],
 });
