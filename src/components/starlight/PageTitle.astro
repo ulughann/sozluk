@@ -1,80 +1,90 @@
 ---
-import Default from '@astrojs/starlight/components/PageTitle.astro';
+import Default from "@astrojs/starlight/components/PageTitle.astro";
 let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
-
-
 ---
 
 <Default><slot /></Default>
-{synonyms.length > 0 && (
+{
+  synonyms.length > 0 && (
     <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
-        {synonyms.map((synonym: string) => (
-            <span
-                style="
+      {synonyms.map((synonym: string) => (
+        <span
+          style="
                     background: #e0e0e0;
                     border-radius: 16px;
                     padding: 0.25em 0.75em;
                     font-size: 0.95em;
                     color: #333;
                     display: inline-block;
-                    cursor: 
+                    cursor: pointer;
+                    data-synonym={synonym}
                 "
-            >
-                {synonym}
-            </span>
-        ))}
+        >
+          {synonym}
+        </span>
+      ))}
     </div>
-)}
+  )
+}
 <script type="module">
-    // Attach click listeners to synonym tags after hydration
-    document.addEventListener('DOMContentLoaded', () => {
-        document.querySelectorAll('[data-synonym]').forEach((el) => {
-            el.addEventListener('click', (e) => {
-                const synonym = (e.target).textContent;
-                if (synonym) openAndFillSearch(synonym.trim());
-            });
-        });
+  document.addEventListener("DOMContentLoaded", () => {
+    const synonymContainer = document.querySelector(
+      'div[style*="display: flex;"]'
+    ); // Select the container
+    if (synonymContainer) {
+      synonymContainer.addEventListener("click", (e) => {
+        const target = e.target;
+        console.log("Synonym clicked:", target.textContent);
+
+            openAndFillSearch(target.textContent);
+      });
+    }
+  });
+
+  // Read your search params
+  const params = new URLSearchParams(document.location.search);
+  const query = params.get("s"); // use your preferred query string key here: s, search, query, etc.
+
+  if (query) {
+    // Wait for site search to have loaded.
+    waitFor(
+      () => !!document.querySelector<HTMLInputElement>("site-search input")
+    )
+      .then(() => openAndFillSearch(query))
+      .catch(() => console.error("Failed to load search in time."));
+  }
+
+  function openAndFillSearch(query) {
+    // Open the search modal
+    const openModalButton = document.querySelector<HTMLButtonElement>(
+      "site-search [data-open-modal]"
+    );
+    if (!openModalButton) return;
+    openModalButton.click();
+
+    // Input your search query
+    const input = document.querySelector<HTMLInputElement>("site-search input");
+    if (!input) return;
+    input.value = query;
+    input.dispatchEvent(
+      new InputEvent("input", { bubbles: true, cancelable: true })
+    );
+  }
+
+  // Helper to repeatedly run a test until it passes, resolving when it does.
+  function waitFor(
+    test,
+    { timeout = 1000, interval = 50 } = {}
+  ) {
+    return new Promise((resolve, reject) => {
+      const start = Date.now();
+      const runTest = () => {
+        const isSuccessful = test();
+        if (isSuccessful) resolve();
+        else if (Date.now() - start > timeout) reject();
+        else setTimeout(runTest, interval);
+      };
+      runTest();
     });
-</script>
-
-<script>
-    // Read your search params
-    const params = new URLSearchParams(document.location.search);
-    const query = params.get('s'); // use your preferred query string key here: s, search, query, etc.
-
-    if (query) {
-        // Wait for site search to have loaded.
-        waitFor(() => !!document.querySelector<HTMLInputElement>('site-search input'))
-            .then(() => openAndFillSearch(query))
-            .catch(() => console.error('Failed to load search in time.'));
-    }
-
-    function openAndFillSearch(query: string) {
-        // Open the search modal
-        const openModalButton = document.querySelector<HTMLButtonElement>(
-            'site-search [data-open-modal]'
-        );
-        if (!openModalButton) return;
-        openModalButton.click();
-
-        // Input your search query
-        const input = document.querySelector<HTMLInputElement>('site-search input');
-        if (!input) return;
-        input.value = query;
-        input.dispatchEvent(new InputEvent('input', { bubbles: true, cancelable: true }));
-    }
-
-    // Helper to repeatedly run a test until it passes, resolving when it does.
-    function waitFor(test: () => boolean, { timeout = 1000, interval = 50 } = {}): Promise<void> {
-        return new Promise((resolve, reject) => {
-            const start = Date.now();
-            const runTest = () => {
-                const isSuccessful = test();
-                if (isSuccessful) resolve();
-                else if (Date.now() - start > timeout) reject();
-                else setTimeout(runTest, interval);
-            };
-            runTest();
-        });
-    }
+  }
 </script>
