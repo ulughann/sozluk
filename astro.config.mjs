@@ -7,7 +7,13 @@ export default defineConfig({
   base: "/",
   integrations: [
     starlight({
-      defaultLocale: 'tr-TR',
+      defaultLocale: "root",
+      locales: {
+        root: {
+          label: "Türkçe",
+          lang: "tr",
+        },
+      },
       plugins: [starlightThemeObsidian()],
       sidebar: [
         {
