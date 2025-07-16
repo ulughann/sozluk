@@ -14,6 +14,17 @@ collections:
         allow_add: true
       - { label: "İçerik", name: "body", widget: "markdown" }
 
+collections:
+  - name: "ekler"
+    label: "Ekler"
+    description: "Ekler - ek ekle"
+    folder: "src/content/docs/ekler/"
+    create: true
+    fields:
+      - { label: "Ek", name: "title", widget: "string" }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
+      - { label: "İçerik", name: "body", widget: "markdown" }
+
 backend:
   name: github
   repo: ulughann/sozluk
