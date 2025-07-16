@@ -1,13 +1,13 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-import starlightThemeObsidian from 'starlight-theme-obsidian'
+import starlightThemeObsidian from "starlight-theme-obsidian";
 // https://astro.build/config
 export default defineConfig({
-  plugins: [starlightThemeObsidian()],
   site: "https://sozluk.onrir.dev",
   base: "/",
   integrations: [
     starlight({
+      plugins: [starlightThemeObsidian()],
       sidebar: [
         {
           label: "Sözlük",
@@ -17,7 +17,7 @@ export default defineConfig({
       ],
       title: "Sözlük",
       pagination: false,
-      // customCss: ["./src/styles/s.css"],
+      customCss: ["./src/styles/s.css"],
       sidebar: [
         {
           label: "Sözlük",
