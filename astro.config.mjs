@@ -3,9 +3,7 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  experimental: {
-    contentCollectionCache: true,
-  },
+
   integrations: [
     starlight({
       defaultLocale: "tr",
@@ -17,9 +15,6 @@ export default defineConfig({
       tableOfContents: false,
       title: "Sözlük",
       pagination: false,
-      social: {
-        github: "https://github.com/ulughann",
-      },
       customCss: ["./src/styles/s.css"],
       components: {
         Head: "./src/components/starlight/Head.astro",
