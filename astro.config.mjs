@@ -1,26 +1,21 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-
+import starlightSiteGraph from "starlight-site-graph";
 // https://astro.build/config
 export default defineConfig({
-
+  plugins: [starlightSiteGraph()],
   integrations: [
     starlight({
-      defaultLocale: "tr",
-      locales: {
-        tr: {
-          label: "Türkçe",
+      sidebar: [
+        {
+          label: "Sözlük",
+          // Autogenerate a group of links for the 'constellations' directory.
+          autogenerate: { directory: "sozluk" },
         },
-      },
-      tableOfContents: false,
+      ],
       title: "Sözlük",
       pagination: false,
       customCss: ["./src/styles/s.css"],
-      components: {
-        Head: "./src/components/starlight/Head.astro",
-        Sidebar: "./src/components/starlight/Sidebar.astro",
-      },
-
       sidebar: [
         {
           label: "Sözlük",
