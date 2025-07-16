@@ -6,11 +6,12 @@ collections:
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Açıklama", name: "text", widget: "string" }
+      - { label: "Açıklama", name: "text", widget: "text" }
       - { label: "Tarih", name: "date", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
+        required: false
         allow_add: true
       - label: "İlgi"
         name: "relations"
@@ -19,6 +20,7 @@ collections:
         search_fields: ["title"]
         value_field: "title"
         display_fields: ["title"]
+        required: false
 
 backend:
   name: github
