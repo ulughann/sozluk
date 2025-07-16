@@ -15,6 +15,9 @@ export default defineConfig({
           autogenerate: { directory: "sozluk" },
         },
       ],
+      components: {
+        PageTitle: "./src/components/starlight/PageTitle.astro",
+      },
       title: "Sözlük",
       pagination: false,
       customCss: ["./src/styles/s.css"],

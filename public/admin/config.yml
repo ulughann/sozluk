@@ -6,7 +6,7 @@ collections:
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Tarih", name: "date", widget: "datetime", required: false }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
