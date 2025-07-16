@@ -28,4 +28,5 @@
   "builtWithStarlight.label": "Starlight ile oluşturuldu",
   "heading.anchorLabel": "Section titled “{{title}}”",
   "starlight-site-graph.graph": "Kuşbakımı Görüntü"
+  "starlight-site-graph.backlinks": "Bağlantılar"
 }
