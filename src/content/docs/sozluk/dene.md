@@ -7,3 +7,4 @@ synonyms:
   - imtihanlaşmak
 relations: sevmek
 ---
+Merhaba, ben kedileri sevmekim
