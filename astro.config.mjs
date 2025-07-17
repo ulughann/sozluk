@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightThemeObsidian from "starlight-theme-obsidian";
+import starlightLinksValidator from 'starlight-links-validator'
 // https://astro.build/config
 export default defineConfig({
   site: "https://sozluk.onrir.dev",
@@ -16,6 +17,7 @@ export default defineConfig({
       },
       plugins: [
         starlightThemeObsidian(),
+        starlightLinksValidator()
       ],
       sidebar: [
         {
@@ -25,10 +27,10 @@ export default defineConfig({
       ],
       components: {
         PageTitle: "./src/components/starlight/PageTitle.astro",
-        MarkdownContent: "./src/components/starlight/MarkdownContent.astro",
+        MarkdownContent: "./src/components/starlight/MarkdownContent.astro"
       },
       title: "Sözlük",
-      // pagination: false,
+      pagination: false,
       customCss: ["./src/styles/s.css"],
       sidebar: [
         {
