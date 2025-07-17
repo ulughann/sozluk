@@ -1,7 +1,8 @@
 ---
-title: Genel ağ
+title: Aral ağ
 lastUpdated: 2025-07-16T20:32:00.000+03:00
 synonyms:
   - internet
+  - net
 ---
-TDK'ce yapılmış bir çeviridir.
+[Aral](/sozluk/aral) (Aracıl) + Ağ
