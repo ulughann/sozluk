@@ -29,14 +29,15 @@ export default defineConfig({
         PageTitle: "./src/components/starlight/PageTitle.astro",
         MarkdownContent: "./src/components/starlight/MarkdownContent.astro"
       },
-      title: "Sözlük",
+      title: "Bilgin Sözlük",
       pagination: false,
       customCss: ["./src/styles/s.css"],
       sidebar: [
         {
           label: "Yazılar",
           autogenerate: { directory: "yazilar" },
-          collapsed: false
+          collapsed: false,
+         
         },
         {
           label: "Sözlük",
