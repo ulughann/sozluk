@@ -1,5 +1,5 @@
 ---
-title: Aral-
+title: Aral_
 lastUpdated: 2025-07-17T12:22:00.000+03:00
 synonyms:
   - inter
