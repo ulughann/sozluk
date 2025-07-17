@@ -21,7 +21,7 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Sözlük",
+          label: "Bilgin Sözlük",
           autogenerate: { directory: "sozluk" },
         },
       ],
