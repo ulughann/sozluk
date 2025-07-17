@@ -1,13 +1,17 @@
 ---
 import Default from "@astrojs/starlight/components/PageTitle.astro";
 let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
-
+let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
 
 ---
 
 
 
 <Default><slot /></Default>
+<p style="margin-top: 0.5rem; color: #666; font-size: 24px;">
+  {description}
+</p>
+
 {
   synonyms.length > 0 && (
     <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">

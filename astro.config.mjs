@@ -34,6 +34,11 @@ export default defineConfig({
       customCss: ["./src/styles/s.css"],
       sidebar: [
         {
+          label: "Yazılar",
+          autogenerate: { directory: "yazilar" },
+          collapsed: false
+        },
+        {
           label: "Sözlük",
           autogenerate: { directory: "sozluk" },
           collapsed: true,

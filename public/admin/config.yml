@@ -23,6 +23,16 @@ collections:
       - { label: "Ek", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - { label: "İçerik", name: "body", widget: "markdown" }
+  - name: "yazilar"
+    label: "Yazılar"
+    description: "Yazılar - yazı ekle"
+    folder: "src/content/docs/yazilar/"
+    create: true
+    fields:
+      - { label: "Yazı", name: "title", widget: "string" }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
+      - { label: "Açıklama", name: "description", widget: "text", required: false }
+      - { label: "İçerik", name: "body", widget: "markdown" }
 
 backend:
   name: github
