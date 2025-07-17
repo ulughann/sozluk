@@ -7,4 +7,4 @@ synonyms:
 ---
 Birçok bitkinin olgunlaşması ile çiçeklenmesini etkileyen bir hormondur
 
-er- "ulaşmak, olgunluğa ulaşmak" + [_mUk](/ekler/_mUk) küçük nesne, kırıntı, döküntü anlamına gelen adlar üreten ek.
+er- "ulaşmak, olgunluğa ulaşmak" + [_mUk](/ekler/_muk) küçük nesne, kırıntı, döküntü anlamına gelen adlar üreten ek.
