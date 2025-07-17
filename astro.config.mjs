@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightThemeObsidian from "starlight-theme-obsidian";
 import starlightLinksValidator from 'starlight-links-validator'
-// https://astro.build/config
+ // https://astro.build/config
 export default defineConfig({
   site: "https://sozluk.onrir.dev",
   base: "/",
@@ -16,7 +16,12 @@ export default defineConfig({
         },
       },
       plugins: [
-        starlightThemeObsidian(),
+        starlightThemeObsidian({
+          graphConfig: {
+            depth: 4,
+          },
+        }),
+
         starlightLinksValidator()
       ],
       sidebar: [
