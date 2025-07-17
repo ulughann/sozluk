@@ -1,5 +1,5 @@
 ---
-title: yaray
+title: Yaray
 lastUpdated: 2025-07-17T14:31:00.000+03:00
 synonyms:
   - tamam
