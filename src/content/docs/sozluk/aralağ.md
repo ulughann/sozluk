@@ -5,4 +5,4 @@ synonyms:
   - internet
   - net
 ---
-[Aral](/ekler/aral) (Aracıl) + Ağ
+[Aral](/sozluk/aral) (Aracıl) + Ağ
