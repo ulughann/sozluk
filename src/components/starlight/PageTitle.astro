@@ -25,8 +25,8 @@ let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
                     color: #333;
                     display: inline-block;
                     cursor: pointer;
-                    data-synonym={synonym}
                 "
+          data-synonym={synonym}
         >
           {synonym}
         </span>
@@ -37,16 +37,18 @@ let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     const synonymContainer = document.querySelector(
-      'div[style*="display: flex;"]'
-    ); // Select the container
-    if (synonymContainer) {
-      synonymContainer.addEventListener("click", (e) => {
-        const target = e.target;
-        console.log("Synonym clicked:", target?.textContent);
-        openAndFillSearch(target?.textContent || "");
+      'div[style*="display: flex;"]' // Select the container
+    );
+    synonymContainer?.querySelectorAll('span[data-synonym]').forEach(span => {
+      span.addEventListener('click', (e) => {
+        const target = e.currentTarget as HTMLElement;
+        console.log("Synonym clicked:", target.dataset.synonym);
+        openAndFillSearch(target.dataset.synonym || "");
+
     });
-    }
+    });
   });
+
 
     function openAndFillSearch(query: string) {
         const openModalButton = document.querySelector<HTMLButtonElement>(
@@ -58,7 +60,6 @@ let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
         }, 50); // Wait for 50 milliseconds
         
         if (!openModalButton) return;
-        console.log("test")
         openModalButton.click();
 
         const input = document.querySelector<HTMLInputElement>('site-search input');
