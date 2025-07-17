@@ -14,7 +14,9 @@ export default defineConfig({
           lang: "tr",
         },
       },
-      plugins: [starlightThemeObsidian()],
+      plugins: [
+        starlightThemeObsidian(),
+      ],
       sidebar: [
         {
           label: "Sözlük",
@@ -26,7 +28,7 @@ export default defineConfig({
         MarkdownContent: "./src/components/starlight/MarkdownContent.astro",
       },
       title: "Sözlük",
-      pagination: false,
+      // pagination: false,
       customCss: ["./src/styles/s.css"],
       sidebar: [
         {
@@ -38,8 +40,7 @@ export default defineConfig({
           label: "Ekler",
           autogenerate: { directory: "ekler" },
           collapsed: true,
-        }
-        
+        },
       ],
     }),
   ],
