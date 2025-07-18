@@ -7,7 +7,7 @@ synonyms:
 ---
 Ön Türkçe buyur- 
 
-Türkçede ilk hece dışında yuvarlak ünlüler birkaç istisna dışında yaygın olmadığından sözcüğün başka bir kökten oluşmuş olması olasıdır.
+Sözcük Ön Türkçe'nin fonotaktiklerine uygun olmadığından kök olma olasılığı düşüktür.
 
 Ön Türkçe **[bāy](/sozluk/bay)** "zengin, varlıklı" sözcüğünden **-(g)Ar** eki ile türetilmiş olması olasıdır. 
 
