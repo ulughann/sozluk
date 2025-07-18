@@ -5,8 +5,7 @@ synonyms:
   - tamam
   - kabul
   - olur
-  - ""
 ---
 Yara- "iyi gelmek" sözünden kaynağı belirsiz -y eki ile üretilmiştir.
 
--Kazakça жарайды (jaraidy, “tamam, olur”), Kumık ярай (yaray, “tamam" "yapabilir, yapabilirsiniz”), Şor чарай (“tamam, olur”)
+Kazakça жарайды (jaraidy, “tamam, olur”), Kumık ярай (yaray, “tamam" "yapabilir, yapabilirsiniz”), Şorca чарай (“tamam, olur”)
