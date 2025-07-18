@@ -9,7 +9,7 @@ synonyms:
 
 Türkçede ilk hece dışında yuvarlak ünlüler birkaç istisna dışında yaygın olmadığından sözcüğün başka bir kökten oluşmuş olması olasıdır.
 
-Ön Türkçe **bāy** "zengin, varlıklı" sözcüğünden **-(g)Ar** eki ile türetilmiş olması olasıdır. 
+Ön Türkçe **[bāy](/sozluk/bay)** "zengin, varlıklı" sözcüğünden **-(g)Ar** eki ile türetilmiş olması olasıdır. 
 
 Bu ek [Tüs](/sozluk/tüs) adlarından geçişsiz, diğer adlardan ise geçişli eylemler üretir. 
 
