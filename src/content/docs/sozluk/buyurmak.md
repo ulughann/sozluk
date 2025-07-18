@@ -9,4 +9,4 @@ synonyms:
 
 Sözcük Ön Türkçe'nin fonotaktiklerine uygun olmadığından kök olma olasılığı düşüktür.
 
-Ön Türkçe **[bāy](/sozluk/bay)** "zengin, varlıklı" sözcüğünden **-U** + **-r** ekleri ile türetilmiş olabilir, -Ur eki de düşündürücüdür.
+Ön Türkçe **[bāy](/sozluk/bay)** "zengin, varlıklı" sözcüğünden **-U** + **-r** ekleri ile türetilmiş olabilir ancak kesin değildir.
