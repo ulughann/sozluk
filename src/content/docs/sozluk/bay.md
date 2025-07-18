@@ -9,6 +9,4 @@ synonyms:
 ---
 Göktürkçe'den beri "zengin" anlamında kullanılsa da Dil Devriminin ardından kökeni tartışmalı olan "bey" sözcüğünün yerine kullanılmaya başlanılmıştır.
 
-Çıganyıg bay kıldı "Fakiri zengin etti" (Orhun Yazıtları, Kül Tigin)
-
-Ön Türkçe hâli uzun ünlü ile **bāy** biçimindedir ve neredeyse tüm Türk dillerinde denk gelmek mümkündür. Sözcüğün "bayram" sözcüğünün kökü olduğu da savunulabilir [bayram](/sozluk/bayram) maddesine göz atınız.
+Çıganyıg bay kıldı "Fakiri zengin etti" (Orhun Yazıtları, Kül Tigin
