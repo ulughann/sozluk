@@ -11,7 +11,7 @@ Türkçede ilk hece dışında yuvarlak ünlüler birkaç istisna dışında yay
 
 Ön Türkçe **[bāy](/sozluk/bay)** "zengin, varlıklı" sözcüğünden **-(g)Ar** eki ile türetilmiş olması olasıdır. 
 
-Bu ek [Tüs](/sozluk/tüs) adlarından geçişsiz, diğer adlardan ise geçişli eylemler üretir. 
+Bu ek tüs (renk) adlarından geçişsiz, diğer adlardan ise geçişli eylemler üretir. 
 
 Yaş > yaşarmak ilişkisi göz önünde bulundurulursa bāy (zengin) > bay gibi davranmak (emir etmek, buyurmak) ilişkisi düşünülebilir.
 
