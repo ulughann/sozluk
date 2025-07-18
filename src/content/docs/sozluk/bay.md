@@ -9,4 +9,4 @@ synonyms:
 ---
 Göktürkçe'den beri "zengin" anlamında kullanılsa da Dil Devriminin ardından kökeni tartışmalı olan "bey" sözcüğünün yerine kullanılmaya başlanılmıştır.
 
-Çıganyıg bay kıldı "Fakiri zengin etti" (Orhun Yazıtları, Kül Tigin
+Çıganyıg bay kıldı "Fakiri zengin etti" (Orhun Yazıtları, Kül Tigin)
