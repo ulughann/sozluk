@@ -7,5 +7,4 @@ synonyms:
 ---
 [Buyurmak](/sozluk/buyurmak) "emretmek" + -t (ettirgen çatı eki)
 
-
 Özbekçe buyurtmoq "sipariş etmek" örnek gösterilebilir.
