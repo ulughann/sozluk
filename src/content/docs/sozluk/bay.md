@@ -11,4 +11,4 @@ Göktürkçe'den beri "zengin" anlamında kullanılsa da Dil Devriminin ardında
 
 Çıganyıg bay kıldı "Fakiri zengin etti" (Orhun Yazıtları, Kül Tigin)
 
-Ön Türkçe hâli uzun ünlü ile **bāy** biçimindedir ve neredeyse tüm Türk dillerinde denk gelmek mümkündür.
+Ön Türkçe hâli uzun ünlü ile **bāy** biçimindedir ve neredeyse tüm Türk dillerinde denk gelmek mümkündür. Sözcüğün "bayram" sözcüğünün kökü olduğu da savunulabilir [kutlama](/sozluk/kutlama) maddesine göz atınız.
