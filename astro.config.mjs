@@ -19,6 +19,9 @@ export default defineConfig({
         starlightThemeObsidian({
           graphConfig: {
             depth: 4,
+            enableHover: true,
+            renderArrows: true,
+            arrowSize: 3
           },
         }),
 
