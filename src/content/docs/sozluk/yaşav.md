@@ -6,3 +6,5 @@ synonyms:
   - bâtın
 ---
 [Yaşmak](/sozluk/yaşmak) eyleminden +Im eki ile türetilmiştir.
+
+Benzer anlamlı [Yaşlak](/sozluk/yaşlak)'a göz atınız
