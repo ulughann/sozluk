@@ -1,5 +1,5 @@
 ---
-title: Yaşgın
+title: Yaşkın
 lastUpdated: 2025-07-19T16:42:00.000+03:00
 synonyms:
   - ketum
