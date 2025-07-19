@@ -5,4 +5,4 @@ synonyms:
   - sır
   - bâtın
 ---
-[Yaşmak](/sozluk/yasmak) eyleminden +Im eki ile türetilmiştir.
+[Yaşmak](/sozluk/yaşmak) eyleminden +Im eki ile türetilmiştir.
