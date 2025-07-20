@@ -9,7 +9,7 @@ synonyms:
 
 Uygur "kavim adı" sözünden alıntıdır. 
 
-Dîvânu Lugâti't-Türk'te Kaşgari sözcüğün Farsça'dan alıntı olduğunu iddia eder.
+Dîvânu Lugâti't-Türk'te Kaşgari sözcüğün İrani bir dilden alıntı olduğunu iddia eder.
 
 
 Uy- "takip etmek" > uygur "takip eden, isyan etmeyen"
