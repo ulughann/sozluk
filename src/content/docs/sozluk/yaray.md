@@ -8,4 +8,6 @@ synonyms:
 ---
 Yara- "iyi gelmek" sözünden kaynağı belirsiz -y eki ile üretilmiştir.
 
+Yanıt olarak "yaradı" denilebilir.
+
 Kazakça жарайды (jaraidy, “tamam, olur”), Kumık ярай (yaray, “tamam" "yapabilir, yapabilirsiniz”), Şorca чарай (“tamam, olur”)
