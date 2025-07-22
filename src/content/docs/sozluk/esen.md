@@ -6,9 +6,8 @@ synonyms:
   - sağlıklı
   - rahat
 ---
-Bu sözcük Eski Türkçe [ȫs-](/sozluk/esmek) "üflemek" sözünden [-gan](/ekler/gAn) eki ile türetilmiştir.
+Bu sözcük Eski Türkçe [ȫs-](/sozluk/esmek) "üflemek" sözünden [\-gan](/ekler/gAn) eki ile türetilmiştir.
 
--gAn ekindeki "g" sesinin düşmesi ebirgen > evren gibi sözcüklerle de görülebilir ve bu ses olayı örneği olmayan bir zamanda yaşanmamıştır.
+\-gAn ekindeki "g" sesinin düşmesi ebirgen > evren gibi sözcüklerle de görülebilir ve bu ses olayı örneği olmayan bir zamanda yaşanmamıştır.
 
-Sözcüğün esgen biçiminde hiçbir yerde bulunmaması düşündürücüdür ancak Farsçadan gelmesi Şaz ağacının 4 öbeğinde de bulunmasından dolayı imkanlı değildir.
-
+Sözcüğün esgen biçiminde hiçbir yerde bulunmaması düşündürücüdür ancak Farsçadan gelmesi Şaz ağacının 4 öbeğinde de bulunmasından dolayı olası değildir.
