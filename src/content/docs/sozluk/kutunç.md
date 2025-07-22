@@ -5,4 +5,4 @@ synonyms:
   - sabır
   - tahammül
 ---
-[Kutmak](/sozluk/kutmak) "beklemek" sözcüğünden alıntıdır.
+[Kutmak](/sozluk/kutmak) "beklemek" sözcüğünden +Unç eki ile türetilmiştir.
