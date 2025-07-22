@@ -1,7 +1,10 @@
 ---
 title: Esmek
 lastUpdated: 2025-07-22T09:47:00.000+03:00
-synonyms: []
+synonyms:
+  - refah
+  - rahatlık
+  - ferahlık
 ---
 Ön Türkçe ȫs- "üflemek" sözcüğünden gelir.
 
