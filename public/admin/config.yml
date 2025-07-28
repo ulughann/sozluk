@@ -1,18 +1,11 @@
-slug:
-  encoding: "unicode"
-  clean_accents: false
-  sanitize_replacement: "-"
-
 collections:
   - name: "sozluk"
     label: "Sözlük"
-    folder: "src/content/docs/sozluk/"
+    description: "Sözlük - kelime ekle"
+    folder: "src/content/docs/sozluk/" 
     create: true
-    slug: "{{fields.slug}}"       # Add this back
-    path: "{{fields.slug}}"       # Still use path for real filename
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Slug (dosya adı)", name: "slug", widget: "string", required: true }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
@@ -30,12 +23,9 @@ collections:
     label: "Ekler"
     description: "Ekler - ek ekle"
     folder: "src/content/docs/ekler/"
-    path: "{{fields.slug}}"
-    slug: "{{fields.slug}}" 
     create: true
     fields:
       - { label: "Ek", name: "title", widget: "string" }
-      - { label: "Slug (dosya adı)", name: "slug", widget: "string", required: true }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - { label: "İçerik", name: "body", widget: "markdown" }
   - name: "yazilar"
@@ -53,12 +43,9 @@ collections:
     label: "Ön Türkçe"
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/" 
-    path: "{{fields.slug}}"
-    slug: "{{fields.slug}}"
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Path :) (dosya adı)", name: "slug", widget: "string", required: true }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
