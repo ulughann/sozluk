@@ -1,23 +1,12 @@
-slug:
-  encoding: "unicode"
-  clean_accents: true
-  sanitize_replacement: "-"
-
 collections:
   - name: "sozluk"
     label: "Sözlük"
     description: "Sözlük - kelime ekle"
-    folder: "src/content/docs/sozluk/"
+    folder: "src/content/docs/sozluk/" 
     create: true
-    slug: "{{slug}}"
-    fields:
-      - label: "Sözcük"
-        name: "title"
-        widget: "string"
-      - label: "Tarih"
-        name: "lastUpdated"
-        widget: "datetime"
-        required: false
+    fields: 
+      - { label: "Sözcük", name: "title", widget: "string" }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
@@ -28,61 +17,36 @@ collections:
         widget: "list"
         required: false
         allow_add: true
-      - label: "İçerik"
-        name: "body"
-        widget: "markdown"
+      - { label: "İçerik", name: "body", widget: "markdown" }
+
   - name: "ekler"
     label: "Ekler"
     description: "Ekler - ek ekle"
     folder: "src/content/docs/ekler/"
     create: true
-    slug: "{{slug}}"
     fields:
-      - label: "Ek"
-        name: "title"
-        widget: "string"
-      - label: "Tarih"
-        name: "lastUpdated"
-        widget: "datetime"
-        required: false
-      - label: "İçerik"
-        name: "body"
-        widget: "markdown"
+      - { label: "Ek", name: "title", widget: "string" }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
+      - { label: "İçerik", name: "body", widget: "markdown" }
   - name: "yazilar"
     label: "Yazılar"
     description: "Yazılar - yazı ekle"
     folder: "src/content/docs/yazilar/"
     create: true
-    slug: "{{slug}}"
     fields:
-      - label: "Yazı"
-        name: "title"
-        widget: "string"
-      - label: "Tarih"
-        name: "lastUpdated"
-        widget: "datetime"
-        required: false
-      - label: "Açıklama"
-        name: "description"
-        widget: "text"
-        required: false
-      - label: "İçerik"
-        name: "body"
-        widget: "markdown"
+      - { label: "Yazı", name: "title", widget: "string" }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
+      - { label: "Açıklama", name: "description", widget: "text", required: false }
+      - { label: "İçerik", name: "body", widget: "markdown" }
+
   - name: "pt"
     label: "Ön Türkçe"
     description: "Ön Türkçe - kelime ekle"
-    folder: "src/content/docs/pt/"
+    folder: "src/content/docs/pt/" 
     create: true
-    slug: "{{slug}}"
-    fields:
-      - label: "Sözcük"
-        name: "title"
-        widget: "string"
-      - label: "Tarih"
-        name: "lastUpdated"
-        widget: "datetime"
-        required: false
+    fields: 
+      - { label: "Sözcük", name: "title", widget: "string" }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Sözcük tipi"
         name: "type"
         widget: "select"
@@ -97,11 +61,7 @@ collections:
         widget: "list"
         required: false
         allow_add: true
-      - label: "İçerik"
-        name: "body"
-        widget: "markdown"
-
-
+      - { label: "İçerik", name: "body", widget: "markdown" }
 backend:
   name: github
   repo: ulughann/sozluk
@@ -109,5 +69,6 @@ backend:
   auth_scope: repo
 
 publish_mode: editorial_workflow
-media_folder: "static/images/uploads"
+media_folder: "static/images/uploads" 
 public_folder: "/images/uploads"
+
