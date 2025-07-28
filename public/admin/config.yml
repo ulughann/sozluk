@@ -1,13 +1,15 @@
+slug:
+  encoding: "unicode"
+  clean_accents: true
+  sanitize_replacement: "-"
+
 collections:
   - name: "sozluk"
     label: "Sözlük"
     description: "Sözlük - kelime ekle"
     folder: "src/content/docs/sozluk/"
     create: true
-    slug:
-      encoding: "unicode"
-      clean_accents: true
-      sanitize_replacement: "-"
+    slug: "{{slug}}"
     fields:
       - label: "Sözcük"
         name: "title"
@@ -50,10 +52,7 @@ collections:
     description: "Yazılar - yazı ekle"
     folder: "src/content/docs/yazilar/"
     create: true
-    slug:
-      encoding: "unicode"
-      clean_accents: true
-      sanitize_replacement: "-"
+    slug: "{{slug}}"
     fields:
       - label: "Yazı"
         name: "title"
@@ -74,10 +73,7 @@ collections:
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/"
     create: true
-    slug:
-      encoding: "unicode"
-      clean_accents: true
-      sanitize_replacement: "-"
+    slug: "{{slug}}"
     fields:
       - label: "Sözcük"
         name: "title"
