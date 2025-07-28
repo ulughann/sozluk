@@ -1,9 +1,14 @@
+slug:
+  encoding: "unicode"
+  clean_accents: false
+  sanitize_replacement: "-"
+
 collections:
   - name: "sozluk"
     label: "Sözlük"
     description: "Sözlük - kelime ekle"
     folder: "src/content/docs/sozluk/" 
-    slug: "{{fields.slug}}"
+    path: "{{fields.slug}}"
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
@@ -25,7 +30,7 @@ collections:
     label: "Ekler"
     description: "Ekler - ek ekle"
     folder: "src/content/docs/ekler/"
-    slug: "{{fields.slug}}"
+    path: "{{fields.slug}}"
     create: true
     fields:
       - { label: "Ek", name: "title", widget: "string" }
@@ -47,11 +52,11 @@ collections:
     label: "Ön Türkçe"
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/" 
-    slug: "{{fields.slug}}"
+    path: "{{fields.slug}}"
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Slug (dosya adı)", name: "slug", widget: "string", required: true }
+      - { label: "Path (dosya adı)", name: "slug", widget: "string", required: true }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
