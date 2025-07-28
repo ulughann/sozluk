@@ -6,10 +6,10 @@ slug:
 collections:
   - name: "sozluk"
     label: "Sözlük"
-    description: "Sözlük - kelime ekle"
-    folder: "src/content/docs/sozluk/" 
-    path: "{{fields.slug}}"
+    folder: "src/content/docs/sozluk/"
     create: true
+    slug: "{{fields.slug}}"       # Add this back
+    path: "{{fields.slug}}"       # Still use path for real filename
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Slug (dosya adı)", name: "slug", widget: "string", required: true }
@@ -31,6 +31,7 @@ collections:
     description: "Ekler - ek ekle"
     folder: "src/content/docs/ekler/"
     path: "{{fields.slug}}"
+    slug: "{{fields.slug}}" 
     create: true
     fields:
       - { label: "Ek", name: "title", widget: "string" }
@@ -53,10 +54,11 @@ collections:
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/" 
     path: "{{fields.slug}}"
+    slug: "{{fields.slug}}"
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Path (dosya adı)", name: "slug", widget: "string", required: true }
+      - { label: "Path :) (dosya adı)", name: "slug", widget: "string", required: true }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
