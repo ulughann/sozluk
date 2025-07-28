@@ -4,10 +4,14 @@ description: Öztürkçenin açık kaynaklı sözlüğü
 pagefind: false
 hero:
   tagline: Öz Türkçenin açık kaynaklı sözlüğü
+  actions:
+  - text: Arama yap
+    icon: right-arrow
+    link: "#s"
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
-import Search2 from '../../components/Search2.astro';
+import { Card, CardGrid } from "@astrojs/starlight/components";
+import Search2 from "../../components/Search2.astro";
 
 <Search2 />
 
@@ -18,10 +22,12 @@ import Search2 from '../../components/Search2.astro';
 		Daha çok Öz Türkçe yazı için Reddit'de [r/oz_turkce](https://www.reddit.com/r/oz_turkce/) altdizinimize katılın!
 	</Card>
 	<Card title="Toplum Destekli" icon="add-document">
-		Yeni sözlerin tartışılmasıyla belirlenmesinde kök toplumun kararlarıdır. 
+		Yeni sözlerin tartışılmasıyla belirlenmesinde kök toplumun kararlarıdır.
 
-	</Card>
-	<Card title="Açık Kaynaklı" icon="open-book">
-		Yazılımı görmek isteyen bütün geliştiricilere açık, gizli saklı yok.
-	</Card>
-</CardGrid> 
+    </Card>
+    <Card title="Açık Kaynaklı" icon="open-book">
+    	Yazılımı görmek isteyen bütün geliştiricilere açık, gizli saklı yok.
+    </Card>
+
+</CardGrid>
+
