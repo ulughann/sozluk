@@ -36,6 +36,7 @@ collections:
     description: "Ekler - ek ekle"
     folder: "src/content/docs/ekler/"
     create: true
+    slug: "{{slug}}"
     fields:
       - label: "Ek"
         name: "title"
