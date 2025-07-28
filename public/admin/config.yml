@@ -32,6 +32,7 @@ collections:
       - { label: "Ek", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - { label: "İçerik", name: "body", widget: "markdown" }
+
   - name: "yazilar"
     label: "Yazılar"
     description: "Yazılar - yazı ekle"
@@ -70,10 +71,10 @@ collections:
         required: false
         allow_add: true
       - { label: "İçerik", name: "body", widget: "markdown" }
-        slug:
-          encoding: "ascii"
-          clean_accents: false
-          sanitize_replacement: "-"
+    slug:
+      encoding: "ascii"
+      clean_accents: false
+      sanitize_replacement: "-"
 
 backend:
   name: github
