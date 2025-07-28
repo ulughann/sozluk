@@ -4,6 +4,10 @@ collections:
     description: "Sözlük - kelime ekle"
     folder: "src/content/docs/sozluk/" 
     create: true
+    slug:
+      encoding: "ascii"
+      clean_accents: false
+      sanitize_replacement: "-"
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
@@ -33,6 +37,10 @@ collections:
     description: "Yazılar - yazı ekle"
     folder: "src/content/docs/yazilar/"
     create: true
+    slug:
+      encoding: "ascii"
+      clean_accents: false
+      sanitize_replacement: "-"
     fields:
       - { label: "Yazı", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
@@ -47,6 +55,10 @@ collections:
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
+      - label: "Sözcük tipi"
+        name: "type"
+        widget: "select"
+        options: ["Fiil", "Ad", "Sıfat", "Diğer"]
       - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
@@ -58,6 +70,11 @@ collections:
         required: false
         allow_add: true
       - { label: "İçerik", name: "body", widget: "markdown" }
+        slug:
+          encoding: "ascii"
+          clean_accents: false
+          sanitize_replacement: "-"
+
 backend:
   name: github
   repo: ulughann/sozluk

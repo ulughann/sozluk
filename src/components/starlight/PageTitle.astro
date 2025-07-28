@@ -1,11 +1,18 @@
 ---
+import { Badge } from "@astrojs/starlight/components";
+
 import Default from "@astrojs/starlight/components/PageTitle.astro";
 let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
+let { type = "sözcük" } = Astro.locals.starlightRoute.entry.data || {};
 ---
-
-<Default><slot /></Default>
+  {type === "sözcük" && <p></p>}
+  {type === "fiil" && <Badge text="Fiil" variant="note" />}
+  {type === "isim" && <Badge text="İsim" variant="note" />}
+  {type === "sıfat" && <Badge text="Sıfat" variant="note" />}
+  {type === "diğer" && <Badge text="Diğer" variant="note" />}
+<Default><slot /> </Default>
 <p style="margin-top: 0.5rem; color: #666; font-size: 24px;">
   {description}
 </p>
@@ -56,7 +63,7 @@ let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
 }
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    document.querySelectorAll('span[data-synonym]').forEach((span) => {
+    document.querySelectorAll("span[data-synonym]").forEach((span) => {
       span.addEventListener("click", (e) => {
         const target = e.currentTarget as HTMLElement;
         console.log("Synonym/Variant clicked:", target.dataset.synonym);
@@ -64,8 +71,6 @@ let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
       });
     });
   });
-
-
 
   function openAndFillSearch(query: string) {
     const openModalButton = document.querySelector<HTMLButtonElement>(

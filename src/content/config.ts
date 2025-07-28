@@ -5,7 +5,8 @@ import { pageThemeObsidianSchema } from "starlight-theme-obsidian/schema";
 
 const extendedSchema = pageThemeObsidianSchema.extend({
   synonyms: z.array(z.string()).optional(),
-  variants: z.array(z.string()).optional()
+  variants: z.array(z.string()).optional(),
+  type: z.enum(["sözcük", "fiil", "isim", "sıfat", "diğer"]).default("sözcük"),
 });
 
 type ExtendedSchema = z.infer<typeof extendedSchema>;
