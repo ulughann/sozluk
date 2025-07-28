@@ -80,7 +80,12 @@ collections:
       sanitize_replacement: "-"
     fields:
       - label: "Sözcük"
-        name:
+        name: "title"
+        widget: "string"
+      - label: "Tarih"
+        name: "lastUpdated"
+        widget: "datetime"
+        required: false
       - label: "Sözcük tipi"
         name: "type"
         widget: "select"
@@ -95,7 +100,9 @@ collections:
         widget: "list"
         required: false
         allow_add: true
-      - { label: "İçerik", name: "body", widget: "markdown" }
+      - label: "İçerik"
+        name: "body"
+        widget: "markdown"
 
 
 backend:
@@ -105,5 +112,5 @@ backend:
   auth_scope: repo
 
 publish_mode: editorial_workflow
-media_folder: "static/images/uploads" 
+media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
