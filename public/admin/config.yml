@@ -39,6 +39,25 @@ collections:
       - { label: "Açıklama", name: "description", widget: "text", required: false }
       - { label: "İçerik", name: "body", widget: "markdown" }
 
+  - name: "pt"
+    label: "Ön Türkçe"
+    description: "Ön Türkçe - kelime ekle"
+    folder: "src/content/docs/pt/" 
+    create: true
+    fields: 
+      - { label: "Sözcük", name: "title", widget: "string" }
+      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
+      - label: "Eş anlamlılar"
+        name: "synonyms"
+        widget: "list"
+        required: false
+        allow_add: true
+      - label: "Varyantlar"
+        name: "variants"
+        widget: "list"
+        required: false
+        allow_add: true
+      - { label: "İçerik", name: "body", widget: "markdown" }
 backend:
   name: github
   repo: ulughann/sozluk

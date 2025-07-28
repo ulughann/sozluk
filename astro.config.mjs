@@ -57,6 +57,11 @@ export default defineConfig({
           autogenerate: { directory: "ekler" },
           collapsed: true,
         },
+        {
+          label: "Ön Türkçe",
+          autogenerate: { directory: "pt" },
+          collapsed: true,
+        }
       ],
     }),
   ],
