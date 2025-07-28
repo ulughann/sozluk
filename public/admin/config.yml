@@ -1,8 +1,14 @@
+slug:
+  encoding: "unicode"
+  clean_accents: false
+  sanitize_replacement: "-"
+
 collections:
   - name: "sozluk"
     label: "Sözlük"
     description: "Sözlük - kelime ekle"
     folder: "src/content/docs/sozluk/" 
+    slug: "{{fields.title}}"
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
@@ -23,6 +29,7 @@ collections:
     label: "Ekler"
     description: "Ekler - ek ekle"
     folder: "src/content/docs/ekler/"
+    slug: "{{fields.title}}"
     create: true
     fields:
       - { label: "Ek", name: "title", widget: "string" }
@@ -43,6 +50,7 @@ collections:
     label: "Ön Türkçe"
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/" 
+    slug: "{{fields.title}}"
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
@@ -67,3 +75,4 @@ backend:
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads" 
 public_folder: "/images/uploads"
+
