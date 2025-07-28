@@ -1,11 +1,9 @@
 ---
 import Default from "@astrojs/starlight/components/PageTitle.astro";
 let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
+let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
-
 ---
-
-
 
 <Default><slot /></Default>
 <p style="margin-top: 0.5rem; color: #666; font-size: 24px;">
@@ -34,39 +32,59 @@ let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
     </div>
   )
 }
+{
+  variants.length > 0 && (
+    <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+      {variants.map((variant: string) => (
+        <span
+          style="
+                    background: #e0e0e06f;
+                    border-radius: 16px;
+                    padding: 0.25em 0.75em;
+                    font-size: 0.95em;
+                    color: #333;
+                    display: inline-block;
+                    cursor: pointer;
+                "
+          data-synonym={variant}
+        >
+          {variant}
+        </span>
+      ))}
+    </div>
+  )
+}
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    const synonymContainer = document.querySelector(
-      'div[style*="display: flex;"]' // Select the container
-    );
-    synonymContainer?.querySelectorAll('span[data-synonym]').forEach(span => {
-      span.addEventListener('click', (e) => {
+    document.querySelectorAll('span[data-synonym]').forEach((span) => {
+      span.addEventListener("click", (e) => {
         const target = e.currentTarget as HTMLElement;
-        console.log("Synonym clicked:", target.dataset.synonym);
+        console.log("Synonym/Variant clicked:", target.dataset.synonym);
         openAndFillSearch(target.dataset.synonym || "");
-
-    });
+      });
     });
   });
 
 
-    function openAndFillSearch(query: string) {
-        const openModalButton = document.querySelector<HTMLButtonElement>(
-            'site-search [data-open-modal]'
-        );setTimeout(() => {
-          if (openModalButton) {
-            openModalButton.click();
-          }
-        }, 50); // Wait for 50 milliseconds
-        
-        if (!openModalButton) return;
+
+  function openAndFillSearch(query: string) {
+    const openModalButton = document.querySelector<HTMLButtonElement>(
+      "site-search [data-open-modal]"
+    );
+    setTimeout(() => {
+      if (openModalButton) {
         openModalButton.click();
+      }
+    }, 50); // Wait for 50 milliseconds
 
-        const input = document.querySelector<HTMLInputElement>('site-search input');
-        if (!input) return;
-        input.value = query;
-        input.dispatchEvent(new InputEvent('input', { bubbles: true, cancelable: true }));
-    }
+    if (!openModalButton) return;
+    openModalButton.click();
 
-
+    const input = document.querySelector<HTMLInputElement>("site-search input");
+    if (!input) return;
+    input.value = query;
+    input.dispatchEvent(
+      new InputEvent("input", { bubbles: true, cancelable: true })
+    );
+  }
 </script>

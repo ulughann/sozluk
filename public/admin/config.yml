@@ -12,6 +12,11 @@ collections:
         widget: "list"
         required: false
         allow_add: true
+      - label: "Varyantlar"
+        name: "variants"
+        widget: "list"
+        required: false
+        allow_add: true
       - { label: "İçerik", name: "body", widget: "markdown" }
 
   - name: "ekler"
