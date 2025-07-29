@@ -6,7 +6,7 @@ synonyms:
   - kabul
   - olur
 ---
-Yara- "iyi gelmek" sözünden kaynağı belirsiz -y eki ile üretilmiştir.
+[Yara-](/sozluk/yaramak) "iyi gelmek" sözünden kaynağı belirsiz -y eki ile üretilmiştir.
 
 Yanıt olarak "yaradı" denilebilir.
 
