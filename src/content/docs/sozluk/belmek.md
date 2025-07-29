@@ -1,5 +1,5 @@
 ---
-title: Bel-
+title: Belmek
 synonyms:
   - tanımlamak
   - belirlemek
