@@ -8,6 +8,12 @@ export default defineConfig({
   base: "/",
   integrations: [
     starlight({
+      logo: {
+        dark: "./src/assets/dark.png",
+        light: "./src/assets/light.png",
+        replacesTitle: true,
+      },
+      
       defaultLocale: "root",
       locales: {
         root: {
