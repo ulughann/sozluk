@@ -7,3 +7,5 @@ synonyms:
 Türkiye Türkçesi _benzet-_ "benzetmek" **+Im** < _[benze-](/sozluk/benzemek)_ "benzemek" **+It- +Im**
 
 Aydın Köksal'ın türettiği sözcüklerdendir. İlk kez 1971'de simülasyon anlamında yayınlanmıştır.
+
+[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 
