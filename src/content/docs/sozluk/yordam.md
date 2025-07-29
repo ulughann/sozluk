@@ -20,3 +20,5 @@ Rutin anlamına gelir, bilişimde bir işlevden önce çalışan kod öbeğine v
 **Başlangıç yordamı** - kodun çalıştırılmadan önce izlediği rutin
 
 **Alt yordam** - subroutine, alt dizide çalışan ana yordama paralel olarak çalışan kod.
+
+Aydın Köksal'ın 1971 tarihli Türkçe Bilişim Sözleri çevirilerinden alıntıdır.
