@@ -10,3 +10,5 @@ variants:
 [Çevrim](/sozluk/çevrim) sözcüğünden üretilmiştir.
 
 Aydın Köksal'ın 1971 tarihli "Türkçe Bilişim Sözleri" çevirilerinden alıntıdır.
+
+[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 

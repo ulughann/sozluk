@@ -9,3 +9,4 @@ synonyms:
 
 **Ağ** sözcüğü özünde "tuzak" anlamına gelirken Çağdaş Türkiye Türkçesinde *örümcek ağı* bennzeri olup kişiler/nesneler arasındaki bağları anlatan bir sözcük olarak da kulllanılmaktadır.
   
+[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 

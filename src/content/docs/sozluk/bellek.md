@@ -11,3 +11,5 @@ synonyms:
 Anadolu ağızlarında bu anlamla rastlanılmıştır.
 
 Sözcüğün bilişime katılımı Aydın Köksal tarafından olmuştur ve Aydın Köksal'ın yaptığı sunumda bu sözcüğü kullanması üstüne bir Albay'ın niçin bellek gibi bir "köylü" sözcüğü yerine hafıza sözcüğünü kullanmadığını sorduğunda "Köylülere bile bunu anlatabilirsek o köylülerden mühendisler çıkar." Dediği öne sürülen anekdot gerçektir.
+
+[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 

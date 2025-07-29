@@ -6,3 +6,5 @@ synonyms:
   - net
 ---
 [Aral](/sozluk/aral) (Aracıl) + Ağ
+
+[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 
