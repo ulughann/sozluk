@@ -6,7 +6,7 @@ synonyms:
   - ram
   - hafıza
 ---
-(Bel-)[/sozluk/belmek] "Tanımlamak" sözcüğünden oluşan belle- "ezberlemek, öğrenmek" sözünden +Ik eki ile türetilmiştir.
+[Bel-](/sozluk/belmek) "Tanımlamak" sözcüğünden oluşan belle- "ezberlemek, öğrenmek" sözünden +Ik eki ile türetilmiştir.
 
 Anadolu ağızlarında bu anlamla rastlanılmıştır.
 
