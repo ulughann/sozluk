@@ -1,6 +1,6 @@
 ---
 title: Değre
-lastUpdated: 2025-07-29T15:10:00.000+03:00
+lastUpdated: 2025-07-29T15:13:00.000+03:00
 synonyms:
   - harita
   - daire
