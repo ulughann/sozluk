@@ -1,10 +1,12 @@
-
 collections:
   - name: "sozluk"
     label: "Sözlük"
     description: "Sözlük - kelime ekle"
     folder: "src/content/docs/sozluk/" 
     create: true
+    slug: "{{title}}"
+    clean_accents: false
+    encoding: "none"
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
@@ -25,15 +27,22 @@ collections:
     description: "Ekler - ek ekle"
     folder: "src/content/docs/ekler/"
     create: true
+    slug: "{{title}}"
+    clean_accents: false
+    encoding: "none"
     fields:
       - { label: "Ek", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - { label: "İçerik", name: "body", widget: "markdown" }
+
   - name: "yazilar"
     label: "Yazılar"
     description: "Yazılar - yazı ekle"
     folder: "src/content/docs/yazilar/"
     create: true
+    slug: "{{title}}"
+    clean_accents: false
+    encoding: "none"
     fields:
       - { label: "Yazı", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
@@ -46,8 +55,10 @@ collections:
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/" 
     create: true
+    slug: "{{title}}"
+    clean_accents: false
+    encoding: "none"
     fields: 
-      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Sözcük tipi"
@@ -65,18 +76,13 @@ collections:
         required: false
         allow_add: true
       - { label: "İçerik", name: "body", widget: "markdown" }
+
 backend:
   name: github
   repo: ulughann/sozluk
   open_authoring: true
   auth_scope: repo
-slug:
-  encoding: "utf8"
-  clean_accents: false
-  sanitize_replacement: "-"
-
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads" 
 public_folder: "/images/uploads"
-
