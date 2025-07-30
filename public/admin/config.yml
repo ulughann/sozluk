@@ -1,3 +1,4 @@
+
 collections:
   - name: "sozluk"
     label: "Sözlük"
@@ -40,6 +41,7 @@ collections:
       - { label: "İçerik", name: "body", widget: "markdown" }
 
   - name: "pt"
+    identifier_field: "slug"
     label: "Ön Türkçe"
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/" 
