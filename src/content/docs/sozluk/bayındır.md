@@ -5,4 +5,5 @@ synonyms:
   - imarlı
   - mamur
 ---
-[Bay](/sozluk/bay) sözünden türemiştir. 
+
+[Bay](/sozluk/bay) sözünden +U eki ile oluşan Bayu- fiilinden türetilmişse de -dır ekinin yapısı muğlaktır.

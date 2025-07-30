@@ -7,4 +7,6 @@ synonyms:
 ---
 [Aral](/sozluk/aral) (Aracıl) + Ağ
 
+Bu sözcük için Aydın Köksal direktmen "ağ" sözcüğünü de önermiştir. 
+
 [Bilişim ile ilgili sözler](/yazilar/02_bilişim) 

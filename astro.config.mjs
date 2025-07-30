@@ -25,6 +25,7 @@ export default defineConfig({
         starlightThemeObsidian({
           graphConfig: {
             depth: 4,
+            colliderPadding: 18,
             enableHover: true,
             renderArrows: true,
             arrowSize: 3
