@@ -47,6 +47,7 @@ collections:
     folder: "src/content/docs/pt/" 
     create: true
     fields: 
+      - { label: "Slug", name: "slug", widget: "string" }
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Sözcük tipi"
