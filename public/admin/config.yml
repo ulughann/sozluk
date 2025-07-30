@@ -69,6 +69,11 @@ backend:
   repo: ulughann/sozluk
   open_authoring: true
   auth_scope: repo
+slug:
+  encoding: "utf8"
+  clean_accents: false
+  sanitize_replacement: "-"
+
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads" 
