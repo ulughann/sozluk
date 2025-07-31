@@ -1,6 +1,7 @@
 ---
 title: Devinik
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - Dinamik
 lastUpdated: 2025-07-29T12:22:00.000+03:00

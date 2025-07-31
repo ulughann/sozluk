@@ -1,5 +1,7 @@
 ---
 title: Belmek
+type:
+  - fiil
 synonyms:
   - tanımlamak
   - belirlemek

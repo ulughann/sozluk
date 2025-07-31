@@ -9,7 +9,6 @@ variants:
   - altyordam
   - başlangıç yordamı
   - çatı yordamlar
-  - ""
 ---
 **Yort-** "yürütmek" sözcüğünden **+Am** eki ile türetilmiştir.
 

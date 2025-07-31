@@ -1,5 +1,7 @@
 ---
 title: Devinmek
+type:
+  - fiil
 lastUpdated: 2025-07-29T11:58:00.000+03:00
 synonyms:
   - Hareket etmek

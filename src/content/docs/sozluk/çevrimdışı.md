@@ -1,6 +1,7 @@
 ---
 title: Çevrimdışı
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - offline
   - bağsız

@@ -1,6 +1,7 @@
 ---
 title: Buyurmak
-type: fiil
+type:
+  - fiil
 synonyms:
   - emretmek
   - emir etmek

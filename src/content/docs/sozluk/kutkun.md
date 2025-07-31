@@ -1,6 +1,7 @@
 ---
 title: Kutkun
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - sabırlı
   - tahamüllü

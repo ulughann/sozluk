@@ -1,6 +1,7 @@
 ---
 title: Buyurtmak
-type: fiil
+type:
+  - fiil
 synonyms:
   - sipariş etmek
   - sipariş vermek

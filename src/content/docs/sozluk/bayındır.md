@@ -1,6 +1,7 @@
 ---
 title: Bayındır
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - imarlı
   - mamur

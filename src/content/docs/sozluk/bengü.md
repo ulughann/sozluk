@@ -1,6 +1,7 @@
 ---
 title: Bengi
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - ebedi
   - ölümsüz

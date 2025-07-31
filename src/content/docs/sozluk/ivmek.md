@@ -1,6 +1,7 @@
 ---
 title: İvmek
-type: fiil
+type:
+  - fiil
 synonyms:
   - acele etmek
   - çabuk davranmak

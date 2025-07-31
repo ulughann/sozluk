@@ -1,6 +1,7 @@
 ---
 title: Çevrimiçi
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - online
   - bağlı

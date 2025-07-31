@@ -1,6 +1,7 @@
 ---
 title: Devingen
-type: sıfat
+type:
+ - sıfat
 synonyms:
   - Mobil
 lastUpdated: 2025-07-29T12:09:00.000+03:00

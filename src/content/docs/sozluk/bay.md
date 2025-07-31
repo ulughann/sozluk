@@ -1,6 +1,9 @@
 ---
 title: Bay
 lastUpdated: 2025-07-18T11:23:00.000+03:00
+type:
+  - sıfat
+  - isim
 synonyms:
   - zengin
   - asil

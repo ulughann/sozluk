@@ -1,6 +1,7 @@
 ---
 title: Yaramak
-type: fiil
+type:
+  - fiil
 synonyms:
   - iyi gelmek
   - ''

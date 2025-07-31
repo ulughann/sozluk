@@ -1,6 +1,7 @@
 ---
 title: Esen
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - ferah
   - sağlıklı

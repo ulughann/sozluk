@@ -1,6 +1,7 @@
 ---
 title: Yaşmak
-type: fiil
+type:
+  - fiil
 synonyms:
   - saklamak
   - gizlemek

@@ -1,6 +1,7 @@
 ---
 title: Yaşkın
-type: sıfat
+type:
+  - sıfat
 synonyms:
   - ketum
 lastUpdated: 2025-07-19T16:42:00.000+03:00

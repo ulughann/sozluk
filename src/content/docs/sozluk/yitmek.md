@@ -1,6 +1,7 @@
 ---
 title: Yitmek
-type: fiil
+type:
+  - fiil
 synonyms:
   - kaybolmak
   - kayıp olmak

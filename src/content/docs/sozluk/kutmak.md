@@ -1,6 +1,7 @@
 ---
 title: Kutmak
-type: fiil
+type:
+  - fiil
 synonyms:
   - beklemek
   - sabretmek
