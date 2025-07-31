@@ -5,6 +5,7 @@ import Default from "@astrojs/starlight/components/PageTitle.astro";
 let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
+let { type = "isim" } = Astro.locals.starlightRoute.entry.data || {};
 
 // figure out if word is in pt, sozluk or ekler
 
@@ -17,11 +18,19 @@ if (slug.startsWith("/pt/")) {
   word = "Ön Türkçe"
 }
 
+
+
 ---
 
 <div data-pagefind-filter="Sözlük">
   {word}
 </div>
+
+<div data-pagefind-filter="Sözcük çeşiti">
+  {type}
+</div>
+
+
 
 
 
