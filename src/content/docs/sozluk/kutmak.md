@@ -1,9 +1,10 @@
 ---
 title: Kutmak
-lastUpdated: 2025-07-22T11:33:00.000+03:00
+type: fiil
 synonyms:
   - beklemek
   - sabretmek
+lastUpdated: 2025-07-22T11:33:00.000+03:00
 ---
 Ön Türkçe kǖt- "beklemek, kontrol etmek" sözünden alıntıdır.
 

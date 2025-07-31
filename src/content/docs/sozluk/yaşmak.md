@@ -1,9 +1,10 @@
 ---
 title: Yaşmak
-lastUpdated: 2025-07-19T16:01:00.000+03:00
+type: fiil
 synonyms:
   - saklamak
   - gizlemek
+lastUpdated: 2025-07-19T16:01:00.000+03:00
 ---
 Ön Türkçe yaĺ- "saklamak" kökünden gelir.
 
