@@ -7,6 +7,8 @@ let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
 let { type = "isim" } = Astro.locals.starlightRoute.entry.data || {};
 
+let v = variants.toString().replace(/,/g, ", ");
+
 // figure out if word is in pt, sozluk or ekler
 
 const { slug } = Astro.locals.starlightRoute;
@@ -61,28 +63,9 @@ if (slug.startsWith("/pt/")) {
     </div>
   )
 }
-{
-  variants.length > 0 && (
-    <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
-      {variants.map((variant: string) => (
-        <span
-          style="
-                    background: #e0e0e06f;
-                    border-radius: 16px;
-                    padding: 0.25em 0.75em;
-                    font-size: 0.95em;
-                    color: #333;
-                    display: inline-block;
-                    cursor: pointer;
-                "
-          data-synonym={variant}
-        >
-          {variant}
-        </span>
-      ))}
-    </div>
-  )
-}
+
+<p hidden> {v} </p>
+
 </div>
 <script>
   document.addEventListener("DOMContentLoaded", () => {
