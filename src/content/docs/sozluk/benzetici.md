@@ -8,4 +8,3 @@ Türkiye Türkçesi _benzet-_ "benzetmek" **+(y)IcI** < _[benze-](/sozluk/benzem
 
 Aydın Köksal'ın türettiği sözcüklerdendir. İlk kez 1971'de simülatör anlamında yayınlanmıştır.
 
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim)

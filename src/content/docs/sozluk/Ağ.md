@@ -9,4 +9,3 @@ Eski Türkçe aġ "tuzak" < Ön Türkçe [\*āg](/pt/āg) "tuzak"
 
 Aydın Köksal'a göre "internet" sözcüğünün karşılığıdır. 
 
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim)

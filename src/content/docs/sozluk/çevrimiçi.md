@@ -15,4 +15,3 @@ Aydın Köksal'ın 1971 yayınlı "Türkçe Bilişim Sözleri" çevirilerinden a
 
 > off-line için ayrı yerine çevrimdışı; online için bağlı yerine çevrimiçi
 
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim)

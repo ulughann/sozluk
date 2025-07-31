@@ -15,4 +15,3 @@ Yeni Türkçe _ağlık_ "internet sitesi" < Yeni Türkçe _ağ_ "internet" **+lU
 
 Ön Türkçe [āg](/pt/āg) sözcüğünden gelir
   
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim)
