@@ -7,8 +7,8 @@ synonyms:
   - emir etmek
 lastUpdated: 2025-07-18T11:01:00.000+03:00
 ---
-Ön Türkçe buyur- 
+Eski Türkçe _buyur-_ "emretmek" < Ön Türkçe _[\*bāy](/sozluk/bay)_ "zengin, varlıklı" **+U- +Ir-**
 
-Sözcük Ön Türkçe'nin fonotaktiklerine uygun olmadığından kök olma olasılığı düşüktür.
+Kaşgarlı, sözcüğün Oğuzcaya özgü olduğunu belirtir.
 
-Ön Türkçe [**bāy**](/sozluk/bay) "zengin, varlıklı" sözcüğünden **-U** + **-r** ekleri ile türetilmiş olabilir ancak kesin değildir.
+Nihai kökeni muğlaktır. Sözcük Ön Türkçe'nin ses birleşme kurallarına(fonotaktiklerine) uygun olmadığından kök olma olasılığı düşüktür.

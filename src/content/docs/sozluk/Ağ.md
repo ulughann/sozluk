@@ -1,11 +1,12 @@
 ---
 title: Ağ
-lastUpdated: 2025-07-16T20:32:00.000+03:00
 synonyms:
   - internet
   - net
+lastUpdated: 2025-07-16T20:32:00.000+03:00
 ---
+Eski Türkçe aġ "tuzak" < Ön Türkçe [\*āg](/pt/āg) "tuzak"
 
-Aydın Köksal'a göre "internet" sözcüğünün karşılığı. 
+Aydın Köksal'a göre "internet" sözcüğünün karşılığıdır. 
 
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 
+[Bilişim ile ilgili sözler](/yazilar/02_bilişim)

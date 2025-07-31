@@ -6,4 +6,4 @@ synonyms:
   - tanımlamak
   - belirlemek
 ---
-Ön Türkçe bel- "Tanımlamak, belirlemek" sözcüğünden alıntıdır. 
+Ön Türkçe \*_bel-_ "tanımlamak, belirlemek"
