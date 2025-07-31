@@ -6,7 +6,6 @@ collections:
     create: true
     fields: 
       - { label: "Sözcük (LÜTFEN 3 NOKTA KISMINDAN SLUG'I DÜZENLEYİN)", name: "title", widget: "string" }
-      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - { label: "Sözcük türü", name: "type", widget: "select", options: ["isim", "fiil", "sıfat", "diğer"], default: "isim" }
       - label: "Eş anlamlılar"
         name: "synonyms"
@@ -27,7 +26,6 @@ collections:
     create: true
     fields:
       - { label: "Ek", name: "title", widget: "string" }
-      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - { label: "İçerik", name: "body", widget: "markdown" }
 
   - name: "yazilar"
@@ -48,7 +46,6 @@ collections:
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - { label: "Sözcük türü", name: "type", widget: "select", options: ["isim", "fiil", "sıfat", "diğer"], default: "isim" }
       - label: "Varyantlar"
         name: "variants"

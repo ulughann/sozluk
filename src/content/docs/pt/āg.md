@@ -1,6 +1,5 @@
 ---
 title: āg
-lastUpdated: ''
 type: isim
 variants: []
 ---
