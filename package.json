@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "pdf": "npm run build && (npm run preview > /dev/null & sleep 5); lsof -ti:4321 > preview.pid; npx starlight-to-pdf http://localhost:4321 -p ./public/_pdf --filename docs --pdf-outline; kill $(cat preview.pid) && rm preview.pid && echo 'PDF script finished'"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.7",
