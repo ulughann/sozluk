@@ -1,6 +1,5 @@
 ---
 title: āg
-type: isim
 variants:
   - ağ
   - aag

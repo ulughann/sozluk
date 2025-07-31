@@ -5,7 +5,7 @@ import Default from "@astrojs/starlight/components/PageTitle.astro";
 let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
-let { type = "isim" } = Astro.locals.starlightRoute.entry.data || {};
+let { type = [] } = Astro.locals.starlightRoute.entry.data || {};
 
 let v = variants.toString().replace(/,/g, ", ");
 
@@ -28,9 +28,11 @@ if (slug.startsWith("/pt/")) {
   {word}
 </div>
 
-<div data-pagefind-filter="Sözcük çeşiti"hidden>
-  {type}
-</div>
+{type.map((t: string) => (
+  <div data-pagefind-filter="Sözcük çeşiti" hidden>
+    {t}
+  </div>
+))}
 
 
 

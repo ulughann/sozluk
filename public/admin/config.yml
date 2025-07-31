@@ -5,8 +5,8 @@ collections:
     folder: "src/content/docs/sozluk/" 
     create: true
     fields: 
-      - { label: "Sözcük (LÜTFEN 3 NOKTA KISMINDAN SLUG'I DÜZENLEYİN)", name: "title", widget: "string" }
-      - { label: "Sözcük türü", name: "type", widget: "select", options: ["isim", "fiil", "sıfat", "diğer"], default: "isim" }
+      - { label: "Sözcük", name: "title", widget: "string" }
+      - { label: "Sözcük türü", name: "type", widget: "select", multiple: true, options: ["isim", "fiil", "sıfat", "bağlaç", "edat", "zamir", "ünlem", "zarf", "diğer"], default: "isim" }
       - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
@@ -46,7 +46,7 @@ collections:
     create: true
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
-      - { label: "Sözcük türü", name: "type", widget: "select", options: ["isim", "fiil", "sıfat", "diğer"], default: "isim" }
+      - { label: "Sözcük türü", name: "type", widget: "select", multiple: true, options: ["isim", "fiil", "sıfat", "bağlaç", "edat", "zamir", "ünlem", "zarf", "diğer"], default: "isim" }
       - label: "Varyantlar"
         name: "variants"
         widget: "list"
