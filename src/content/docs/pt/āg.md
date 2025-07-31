@@ -2,7 +2,9 @@
 title: āg
 type: isim
 variants:
-  - ağ, aag
+  - ağ
+  - aag
+  - aağ
 ---
 **T.T. Ağ**
 
