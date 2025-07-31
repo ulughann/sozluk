@@ -1,7 +1,8 @@
 ---
 title: āg
 type: isim
-variants: []
+variants:
+  - ağ, aag
 ---
 **T.T. Ağ**
 
