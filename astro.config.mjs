@@ -26,6 +26,7 @@ export default defineConfig({
           graphConfig: {
             depth: 4,
             colliderPadding: 18,
+            centerForce: 0,
             enableHover: true,
             renderArrows: true,
             arrowSize: 3
