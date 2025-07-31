@@ -5,13 +5,23 @@ import Default from "@astrojs/starlight/components/PageTitle.astro";
 let { synonyms = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { description = "" } = Astro.locals.starlightRoute.entry.data || {};
-let { type = "sözcük" } = Astro.locals.starlightRoute.entry.data || {};
+
+// figure out if word is in pt, sozluk or ekler
+
+const { slug } = Astro.locals.starlightRoute;
+console.log(slug)
+
+// if slug starts in /pt/
+let word = "Öz Türkçe"
+if (slug.startsWith("/pt/")) {
+  word = "Ön Türkçe"
+}
+
 ---
-  {type === "sözcük" && <p></p>}
-  {type === "fiil" && <Badge text="Fiil" variant="note" />}
-  {type === "isim" && <Badge text="İsim" variant="note" />}
-  {type === "sıfat" && <Badge text="Sıfat" variant="note" />}
-  {type === "diğer" && <Badge text="Diğer" variant="note" />}
+
+<div 
+data-pagefind-filter={word}
+>
 <Default><slot /> </Default>
 <p style="margin-top: 0.5rem; color: #666; font-size: 24px;">
   {description}
@@ -19,7 +29,7 @@ let { type = "sözcük" } = Astro.locals.starlightRoute.entry.data || {};
 
 {
   synonyms.length > 0 && (
-    <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+    <div data-pagefind-filter="Eş anlamlılar" style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
       {synonyms.map((synonym: string) => (
         <span
           style="
@@ -61,6 +71,7 @@ let { type = "sözcük" } = Astro.locals.starlightRoute.entry.data || {};
     </div>
   )
 }
+</div>
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll("span[data-synonym]").forEach((span) => {

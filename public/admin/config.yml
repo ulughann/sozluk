@@ -48,11 +48,6 @@ collections:
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
-      - label: "Eş anlamlılar"
-        name: "synonyms"
-        widget: "list"
-        required: false
-        allow_add: true
       - label: "Varyantlar"
         name: "variants"
         widget: "list"
