@@ -49,10 +49,6 @@ collections:
     fields: 
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
-      - label: "Sözcük tipi"
-        name: "type"
-        widget: "select"
-        options: ["Fiil", "Ad", "Sıfat", "Diğer"]
       - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
