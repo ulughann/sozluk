@@ -1,11 +1,11 @@
 collections:
   - name: "sozluk"
-    label: "Sözlük"
-    description: "Sözlük - kelime ekle"
+    label: "Sözcükler"
+    description: "Sözlük - sözcük ekle"
     folder: "src/content/docs/sozluk/" 
     create: true
     fields: 
-      - { label: "Sözcük", name: "title", widget: "string" }
+      - { label: "Sözcük (LÜTFEN 3 NOKTA KISMINDAN SLUG'I DÜZENLEYİN)", name: "title", widget: "string" }
       - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false }
       - label: "Eş anlamlılar"
         name: "synonyms"
@@ -41,7 +41,6 @@ collections:
       - { label: "İçerik", name: "body", widget: "markdown" }
 
   - name: "pt"
-    identifier_field: "slug"
     label: "Ön Türkçe"
     description: "Ön Türkçe - kelime ekle"
     folder: "src/content/docs/pt/" 
