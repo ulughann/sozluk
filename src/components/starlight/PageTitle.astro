@@ -19,9 +19,10 @@ if (slug.startsWith("/pt/")) {
 
 ---
 
-<div 
-data-pagefind-filter={word}
->
+<div data-pagefind-filter="Sözlük">
+  {word}
+</div>
+
 <Default><slot /> </Default>
 <p style="margin-top: 0.5rem; color: #666; font-size: 24px;">
   {description}
