@@ -23,6 +23,8 @@ if (slug.startsWith("/pt/")) {
   {word}
 </div>
 
+
+
 <Default><slot /> </Default>
 <p style="margin-top: 0.5rem; color: #666; font-size: 24px;">
   {description}
@@ -30,7 +32,7 @@ if (slug.startsWith("/pt/")) {
 
 {
   synonyms.length > 0 && (
-    <div data-pagefind-filter="Eş anlamlılar" style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+    <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
       {synonyms.map((synonym: string) => (
         <span
           style="
