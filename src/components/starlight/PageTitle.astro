@@ -9,18 +9,15 @@ let { type = [] } = Astro.locals.starlightRoute.entry.data || {};
 
 let v = variants.toString().replace(/,/g, ", ");
 
-// figure out if word is in pt, sozluk or ekler
-
-const { slug } = Astro.locals.starlightRoute;
-console.log(slug)
-
-// if slug starts in /pt/
+console.log("sa")
 let word = "Öz Türkçe"
-if (slug.startsWith("/pt/")) {
+
+let url = Astro.url.pathname;
+if (url.startsWith("/pt/")) {
   word = "Ön Türkçe"
+} else if (url.startsWith("/ekler/")) {
+  word = "Ek"
 }
-
-
 
 ---
  
