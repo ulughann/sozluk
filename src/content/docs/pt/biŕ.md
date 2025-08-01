@@ -1,5 +1,5 @@
 ---
-title: bi-ŕ
+title: biŕ
 type:
   - zamir
 variants:
