@@ -1,5 +1,5 @@
 ---
-title: āg
+title: aag
 type:
   - isim
 variants:
