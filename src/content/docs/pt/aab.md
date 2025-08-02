@@ -13,7 +13,7 @@ variants:
 
 Ön Türkçede hece sonundaki B, V şeklinde okunur.
 
-Karahanlıca ااڤْ (āv) ve Türkmence āv formları sözcüğün uzun ünlüye sahip olduğunu kanıtlar. Yüksek olasılıkla [aag](/pt/aag) ile aynı sözcük olarak başlayıp sonradan anlamca ayrışmıştır.
+Karahanlıca ااڤْ (āv) ve Türkmence āv formları sözcüğün uzun ünlüye sahip olduğunu kanıtlar. Yüksek olasılıkla [aag](/pt/aag) ile aynı sözcük olarak başlayıp sonradan anlam ve ses yönünden ayrışmıştır.
 
 > **ab** **abla**sar ermeli teg erti (Kül İç Çor Yazıtı, 8. yy.)
 
