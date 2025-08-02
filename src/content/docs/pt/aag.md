@@ -9,7 +9,7 @@ variants:
 ---
 **T.T. Ağ**
 
-Bu sözcük ye- anlamındaki [ā-](/pt/ā-) fiilinden +g eki ile türetilmiştir. g>b>v ses değişimi yaygındır.
+Bu sözcük ye- anlamındaki [aa-](/pt/aa-) fiilinden +g eki ile türetilmiştir. g>b>v ses değişimi yaygındır.
 
 > kuzgun sabı teŋrigerü yalbarur (kuzgun, sözü tanrıya yalvarır : Irk Bitig) 
 
