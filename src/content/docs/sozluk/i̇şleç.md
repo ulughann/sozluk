@@ -8,4 +8,3 @@ Türkiye Türkçesi _işle-_ "işlemek" **+(g)Aç** < _[iş](/sozluk/iş)_ "iş"
 
 işleyen şey, işleme aracı, işleç, fonksiyon.
 
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 
