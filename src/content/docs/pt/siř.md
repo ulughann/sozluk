@@ -1,5 +1,5 @@
 ---
-title: siŕ
+title: siř
 type:
   - zamir
 variants:
