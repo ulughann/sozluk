@@ -13,5 +13,5 @@ Yeni Türkçe _ağlık_ "internet sitesi" < Yeni Türkçe _ağ_ "internet" **+lU
 
 **Ağ** sözcüğü özünde "tuzak" anlamına gelirken Çağdaş Türkiye Türkçesinde _örümcek ağı_ bennzeri olup kişiler/nesneler arasındaki bağları anlatan bir sözcük olarak da kulllanılmaktadır.
 
-Ön Türkçe [āg](/pt/āg) sözcüğünden gelir
+Ön Türkçe [aag](/pt/aag) sözcüğünden gelir
   
