@@ -1,5 +1,5 @@
 ---
-title: āb
+title: aab
 type:
   - isim
 variants:
