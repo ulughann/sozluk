@@ -9,7 +9,7 @@ variants:
 ---
 **T.T. Av**
 
-[aa-](/pt/ā-/) fiilinden +g eki ile türetilmiştir. 
+[aa-](/pt/aa-/) fiilinden +g eki ile türetilmiştir. 
 
 Ön Türkçede hece sonundaki B, V şeklinde okunur.
 
