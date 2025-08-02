@@ -9,10 +9,8 @@ variants:
 ---
 **T.T. Ağ**
 
-Bu sözcük ye- anlamındaki [aa-](/pt/aa-) fiilinden +g eki ile türetilmiştir. g>b>v ses değişimi yaygındır.
+Bu sözcük ye- anlamındaki [aa-](/pt/aa-) fiilinden +g eki ile türetilmiştir. Ön Türkçede hece sonundaki G, Ğ diye okunur.
 
-> kuzgun sabı teŋrigerü yalbarur (kuzgun, sözü tanrıya yalvarır : Irk Bitig) 
+Sözcüğün asıl anlamı *tuzak* iken Batı Türk Dillerinde *örümcek ağı* anlamını kazanmıştır. 
 
-Kırgızca ve Güney Altaycada yy (uu) olarak seslendirildiğinden uzun ünlü olması olasıdır ancak uzunluk özelliğini koruyan diğer dillerde örneği enderdir. Gülensoy Kıpçakça **aag** "ağ" sözcüğünden bahseder.
-
-Ön Türkçede hece sonundaki G, Ğ diye okunur.
+[aab](/pt/aab) maddesine de bakınız.
