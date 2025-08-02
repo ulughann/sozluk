@@ -1,5 +1,5 @@
 ---
-title: biŕ
+title: biř
 type:
   - zamir
 variants:
