@@ -1,7 +1,34 @@
 ---
 import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+let { type = [] } = Astro.locals.starlightRoute.entry.data || {};
+let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
+
+let v = variants.toString().replace(/,/g, ", ");
+
+let word = "Öz Türkçe"
+
+let url = Astro.url.pathname;
+if (url.startsWith("/pt/")) {
+  word = "Ön Türkçe"
+} else if (url.startsWith("/ekler/")) {
+  word = "Ek"
+}
+
 ---
 
 <div data-pagefind-ignore="all">
 <Default ><slot /></Default>
 </div>
+
+ 
+<div data-pagefind-filter="Sözlük" hidden>
+  {word}
+</div>
+
+{type.map((t: string) => (
+  <div data-pagefind-filter="Sözcük çeşiti" hidden>
+    {t}
+  </div>
+))}
+
+<p hidden> {v} </p>
