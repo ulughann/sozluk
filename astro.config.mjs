@@ -25,7 +25,7 @@ export default defineConfig({
       plugins: [
         starlightThemeObsidian({
           graphConfig: {
-            depth: 5,
+            depth: 4,
             colliderPadding: 0,
             centerForce: 0,
             enableHover: true,
