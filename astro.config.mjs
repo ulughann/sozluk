@@ -8,7 +8,7 @@ export default defineConfig({
   base: "/",
   integrations: [
     starlight({
-      favicon: "./src/assets/favicon.svg",
+      favicon: "./public/favicon.svg",
       logo: {
         dark: "./src/assets/dark.png",
         light: "./src/assets/light.png",
