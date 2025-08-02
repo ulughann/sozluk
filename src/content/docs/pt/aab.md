@@ -13,4 +13,4 @@ variants:
 
 Ön Türkçede hece sonundaki B, V şeklinde okunur.
 
-Karahanlıca ااڤْ (āv) formu sözcüğün uzun ünlüye sahip olduğunu kanıtlar. Yüksek olasılıkla [āg](/pt/āg) ile aynı sözcük olarak başlayıp sonradan anlamca ayrışmıştır.
+Karahanlıca ااڤْ (āv) formu sözcüğün uzun ünlüye sahip olduğunu kanıtlar. Yüksek olasılıkla [aag](/pt/aag) ile aynı sözcük olarak başlayıp sonradan anlamca ayrışmıştır.

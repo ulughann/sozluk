@@ -6,7 +6,7 @@ variants:
   - ye-
   - aa-
 ---
-ā- "yemek yemek" fiilidir.
+aa- "yemek yemek" fiilidir.
 
 Bu fiil ağız açma sesini, açlığı, sızıyı anlatan bir yansımalı sözcük olabilir.
 
