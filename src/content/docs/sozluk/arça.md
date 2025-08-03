@@ -2,6 +2,9 @@
 title: Arça
 type:
   - isim
+category:
+  - Bitki bilim
+lastUpdated: ''
 synonyms:
   - pinaceae picea
   - ladin
