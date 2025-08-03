@@ -9,6 +9,6 @@ variants: []
 ---
 Arça < Ardça < E.T. Ard "servi"
 
-[Karağaygiller](/sozluk/karağay) ailesine mensup, iğne yapraklı, her daim yeşil olan ağaç.
+[Çamgiller](/sozluk/çam) ailesine mensup, iğne yapraklı, her daim yeşil olan ağaç.
 
 Özbekçe archa, Türkmence arça, Kazakça шырша (şırşa)
