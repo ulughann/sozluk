@@ -1,5 +1,7 @@
 ---
 title: Yordam
+category:
+  - Yazılım ve teknoloji
 lastUpdated: 2025-07-29T11:19:00.000+03:00
 synonyms:
   - routine
@@ -22,4 +24,4 @@ Rutin anlamına gelir, bilişimde bir işlevden önce çalışan kod öbeğine v
 
 Aydın Köksal'ın 1971 tarihli Türkçe Bilişim Sözleri çevirilerinden alıntıdır.
 
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim) 
+[Bilişim ile ilgili sözler](/yazilar/02_bilişim)
