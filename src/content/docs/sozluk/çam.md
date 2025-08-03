@@ -4,7 +4,6 @@ type:
   - isim
 category:
   - Bitki bilim
-lastUpdated: ''
 synonyms:
   - çam
   - çamgiller

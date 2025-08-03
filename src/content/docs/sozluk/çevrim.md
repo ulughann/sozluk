@@ -2,7 +2,6 @@
 title: Çevrim
 category:
   - Yazılım ve teknoloji
-lastUpdated: ''
 ---
 Türkiye Türkçesi _çevir-_ "çevirmek" **+Im**
 
