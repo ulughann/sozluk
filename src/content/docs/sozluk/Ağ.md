@@ -4,6 +4,8 @@ synonyms:
   - internet
   - net
 lastUpdated: 2025-07-16T20:32:00.000+03:00
+category:
+  - Yazılım ve teknoloji
 ---
 Eski Türkçe aġ "tuzak" < Ön Türkçe [\*aag](/pt/aag) "ağ"
 
