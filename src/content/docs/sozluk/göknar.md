@@ -10,4 +10,4 @@ variants:
 ---
 Gök + Nar
 
-[Karağaygiller](/sozluk/karağay) ailesinin mensubu olan, 40 metreye kadar uzanabilen ağaç türü.
+40 metreye kadar uzanabilen ağaç türü.
