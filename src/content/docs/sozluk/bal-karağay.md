@@ -1,5 +1,5 @@
 ---
-title: Bal karağay
+title: Balçam
 type:
   - isim
 synonyms:
@@ -8,8 +8,8 @@ synonyms:
 variants:
   - balkarağay
 ---
-[Karağaygiller](/sozluk/karağay) ailesinin mensubu bir ağaçtır.
+Bal + çam
 
-Bulundurduğu reçine bal olarak adlandırılmış olabilir.
+[Çamgiller](/sozluk/çam) ailesinin mensubu bir ağaçtır.
 
-Kazakça **балқарағай&#32;**"balkarağay"
+Bulundurduğu reçine bal olarak adlandırılarak Kazakça **балқарағай&#32;**"balkarağay" (bal + karağay [çam]) sözcüğü oluşturulmuştur.
