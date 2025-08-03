@@ -18,4 +18,6 @@ Aynı zamanda Ş>Ç ses değişimine karşı çıkar ve niçin şamdan, (şam + 
 
 Bu doğrultuda şam sözcüğünün çamdan ayrı bir kök olduğunu söyler.
 
+Dolayısıyla Türkçe kabul edilebilir ancak nihai kökünün anlamı belirli değildir.
+
 Sözcüğün Kakas ve Şor dillerindeki hâli olan şabal yüksek olasılıkla bir +Al ekiyle oluşmuştur ve çamdan çok çam yaprağı anlamı taşır.
