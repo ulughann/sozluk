@@ -1,8 +1,11 @@
 ---
 title: Ayraç
+category:
+  - Yazın bilim
+  - Yazılım ve teknoloji
+lastUpdated: 2025-07-29T09:29:00.000+03:00
 synonyms:
   - parantez
-lastUpdated: 2025-07-29T09:29:00.000+03:00
 ---
 Yeni Türkçe _ayraç_ "parantez" < Türkiye Türkçesi _ayır-_ "ayırmak" **+(g)Aç**
 
