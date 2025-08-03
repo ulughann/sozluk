@@ -2,6 +2,9 @@
 title: Balçam
 type:
   - isim
+category:
+  - Bitki bilim
+lastUpdated: ''
 synonyms:
   - pinacea cedruz
   - sedir
