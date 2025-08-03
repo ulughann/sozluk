@@ -2,6 +2,9 @@
 title: Çam
 type:
   - isim
+category:
+  - Bitki bilim
+lastUpdated: ''
 synonyms:
   - çam
   - çamgiller
