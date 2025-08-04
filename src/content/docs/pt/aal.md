@@ -26,6 +26,18 @@ Renk anlamı [aala](/pt/aala) sözcüğünün kökü olarak karşımıza çıkar
 
 Sözcüğün bu anlamından bir çok Türk dilinde kelimeler türetilmiştir.
 
-Kırmızı > hile geçişi ilginç bir biçimde yaygındır. Bkz. Farsça  rang
+Kırmızı > hile geçişi ilginç bir biçimde yaygındır. Bkz. Farsça rang
 
-Karaçay Balkarca **aldam** "yalan", Uygurca **aldam&#32;**"hile", Türkiye Türkçesi **aldat-**, **aldan-**  vs.
+Ancak Farsçanın aksine Clauson burada sözcüğün asıl anlamının nötr olduğunu ifade edip sözcüğün "yöntem" anlamıyla başlayıp ardından "hile" anlamını kazandığını söyler.
+
+> yeg **a:lığ** bulıšğalı: una:ma:du:klar - iyi bir **yöntem** bulmakta anlaşamadılar  (8.yy.)
+
+Budist metinlerde Sanskritçe "faydalı ve ustaca yöntem" anlamına gelen **upāya** sözcüğü Eski Uygurcaya al çeviş veya al altağ olarak çevrilmiştir.
+
+Sonradan 11.yyy.da Kaşgarlı Mahmut sözcüğü "hile, aldatmaca" anlamına bağlar. 
+
+> a:lin arsla:n tuta:r - hile ile aslan tutulur (Dîvânu Lugâti't-Türk 1.yy.)
+
+> bütün čın turur hič alı yok ukuš - Anlayış tam gerçektir, onda hiç hile yoktur (Kutadgu Bilig 11.yy.)
+
+Sözcük çağdaş Türk dillerinde ekleşmiş hâlleri ile varlığını korumaktadır. Karaçay Balkarca **aldam** "yalan", Uygurca **aldam&#32;**"hile", Türkiye Türkçesi **aldat-**, **aldan-**  vs.
