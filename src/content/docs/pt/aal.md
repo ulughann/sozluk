@@ -28,7 +28,7 @@ Sözcüğün bu anlamından bir çok Türk dilinde kelimeler türetilmiştir.
 
 Kırmızı > hile geçişi ilginç bir biçimde yaygındır. Bkz. Farsça rang
 
-Ancak Farsçanın aksine Clauson burada sözcüğün asıl anlamının nötr olduğunu ifade edip sözcüğün "yöntem" anlamıyla başlayıp ardından "hile" anlamını kazandığını söyler.
+Ancak Farsçanın aksine Clauson burada sözcüğün asıl anlamının nötr olduğunu ifade edip sözcüğün "yöntem" anlamıyla başlayıp ardından "hile" anlamını kazandığını söyler ve renk anlamındaki aal ile yöntem anlamındaki aal sözcüklerini ayrı kökler kabul eder.
 
 > yeg **a:lığ** bulıšğalı: una:ma:du:klar - iyi bir **yöntem** bulmakta anlaşamadılar  (8.yy.)
 
