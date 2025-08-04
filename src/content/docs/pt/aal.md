@@ -20,7 +20,7 @@ Clauson: bu kelimenin Moğolcaya, hükümdarların belgeleri mühürlemek için 
 
 Oğuz Kağanın belirli metinlerde al közler "al gözlü" biçiminde tasvir edilmesi ala > ela gibi bir ses değişimine işaret edebilir.
 
-Renk anlamı [aala](/pt/aala) sözcüğünün kökü olarak karşımıza çıkar.
+Renk anlamı [aalaa](/pt/aalaa) sözcüğünün kökü olarak karşımıza çıkar.
 
 ## **Hile**
 
