@@ -66,6 +66,7 @@ slug:
   encoding: "unicode"
   clean_accents: false
   sanitize_replacement: "-"
+  trim: false
 
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads" 
