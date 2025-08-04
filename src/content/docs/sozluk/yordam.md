@@ -23,5 +23,3 @@ Rutin anlamına gelir, bilişimde bir işlevden önce çalışan kod öbeğine v
 **Alt yordam** - subroutine, alt dizide çalışan ana yordama paralel olarak çalışan kod.
 
 Aydın Köksal'ın 1971 tarihli Türkçe Bilişim Sözleri çevirilerinden alıntıdır.
-
-[Bilişim ile ilgili sözler](/yazilar/02_bilişim)
