@@ -12,11 +12,13 @@ variants:
   - Karagay
   - Şam
 ---
-Nişanyan ve Eren sözcüğün Arapça şam "mum" sözcüğünden geldiğini iddia eder. Eren, Arapçadan Türkçeye Ş>Ç değişiminin yaygın olduğundan söz eder. Aynı zamanda sözcüğün asıl kullanımının şam/çam ağacı biçiminde olduğunu belirten Nişanyan ve Eren, sözcüğün "mum ağacı" gibi bir anlamdan oluştuğunu söylerler (3 Ağustos 2025 itibari ile)
+Ön Türkçe \*çam?
+
+Nişanyan ve Eren, sözcüğün Arapça şam "mum" sözcüğünden geldiğini iddia eder. Eren, Arapçadan Türkçeye Ş>Ç değişiminin yaygın olduğundan söz eder. Sözcüğün asıl kullanımının şam/çam ağacı biçiminde olduğunu belirten Nişanyan ve Eren, sözcüğün "mum ağacı" gibi bir anlamdan oluştuğunu söylerler (3 Ağustos 2025 itibari ile)
 
 Buna karşın Gülensoy Anadolu ağızlarından; **çama&#32;**"toplu, kümeli olan şey, demet", **çamçak&#32;**"ağaçtan oyularak yapılan büyük kaşık" gibi  sözcükleri örnek gösterir. Aynı zamanda **çomruk&#32;**"tomruk" sözcüğünün de göz ardı edilmemesi gerektiğini ve bu sözcüklerin ortak bir kök ile yorumlanması gerektiğini savunur.
 
-Aynı zamanda Ş>Ç ses değişimine karşı çıkar ve niçin şamdan, (şam + dan), şafak, Şam (başkent) gibi sözcüklerin de değişime uğramadığını sorgular.
+Bunun yanında Ş>Ç ses değişimine karşı çıkar ve niçin şamdan, (şam + dan), şafak, Şam (başkent) gibi sözcüklerin de değişime uğramadığını sorgular.
 
 Bu doğrultuda şam sözcüğünün çamdan ayrı bir kök olduğunu söyler.
 
