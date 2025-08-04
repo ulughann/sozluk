@@ -10,10 +10,11 @@ synonyms:
 Uygur "kavim adı" sözünden alıntıdır. 
 
 - Dîvânu Lugâti't-Türk'te Kaşgari sözcüğün İrani bir dilden alıntı olduğunu iddia eder.
-
 - Ud- "uymak, takip etmek" > uygur "takip eden, isyan etmeyen" etimolojisi tartışmalıdır.
 
-Uy- "ayılmak" > uygur "ayılmış olan, aydın?"
+- Uy- "ayılmak" > uygur "ayılmış olan, aydın?"
+
+Orta Çince 回鶻 (ɦuʌiɦˠuɛt̚)  ve Japonc 回鶻 (kaikotsu) bir Türk dilinden alıntıdır.
 
 Dîvânu Lugâti't-Türk'te Kaşgari, Uygur sözcüğü hakkında: 
 
