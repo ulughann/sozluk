@@ -13,14 +13,12 @@ let { category = ["Sınıflandırılmamış"] } =
   {description}
 </p>
 
-
+<div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
   {
-    synonyms.length > 0 && (
-      <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
-        {category.map((cat: string) => (
-          <span
-            data-pagefind-filter="Kategori"
-            style="
+    category.map((cat: string) => (
+      <span
+        data-pagefind-filter="Kategori"
+        style="
                 background: #abbef2;
                 border-radius: 16px;
                 padding: 0.25em 0.75em;
@@ -28,13 +26,15 @@ let { category = ["Sınıflandırılmamış"] } =
                 display: inline-block;
                 color: #333;
             "
-          >
-            {cat}
-          </span>
-        ))}
-        {synonyms.map((synonym: string) => (
-          <span
-            style="
+      >
+        {cat}
+      </span>
+    ))
+  }
+  {
+    synonyms.map((synonym: string) => (
+      <span
+        style="
                     background: #e0e0e0;
                     border-radius: 16px;
                     padding: 0.25em 0.75em;
@@ -43,15 +43,14 @@ let { category = ["Sınıflandırılmamış"] } =
                     display: inline-block;
                     cursor: pointer;
                 "
-            data-synonym={synonym}
-          >
-            {synonym}
-          </span>
-        ))}
-      </div>
-    )
+        data-synonym={synonym}
+      >
+        {synonym}
+      </span>
+    ))
   }
 </div>
+
 <script>
   document.addEventListener("DOMContentLoaded", () => {
     document.querySelectorAll("span[data-synonym]").forEach((span) => {
