@@ -12,15 +12,15 @@ variants:
 
 ## **Renk, Kırmızı**
 
-Clauson: bu kelimenin Moğolcaya, hükümdarların belgeleri mühürlemek için kullandığı **çin kaynaklı kırmızı mürekkebin rengi** anlamında girmiş bir alıntı sözcük olduğunu belirtir.
+Clauson: bu kelimenin Moğolcaya, hükümdarların belgeleri mühürlemek için kullandığı **çin kaynaklı kırmızı mürekkebin rengi** anlamında Türkçeden girmiş olduğun belirtir.
 
-> al sang -> kırmızımsı sarı (8.y.y.)
+> al sang -> kırmızımsı sarı (Eski Uygurca, 8.y.y.)
 
->  hükümdarların sancaklarının yapıldığı ve yakınlarının eyerlerinin kaplandığı turuncu renkli brokar (değerli kumaş). **Turuncu&#32;**(11.y.y. Dîvânu Lugâti't-Türk)
+>  hükümdarların sancaklarının yapıldığı ve yakınlarının eyerlerinin kaplandığı turuncu renkli brokar (değerli kumaş). **Turuncu&#32;**(Dîvânu Lugâti't-Türk, 11.yy.)
 
 Oğuz Kağanın belirli metinlerde al közler "al gözlü" biçiminde tasvir edilmesi ala > ela gibi bir ses değişimine işaret edebilir.
 
-Renk anlamı [aalaa](/pt/aalaa) sözcüğünün kökü olarak karşımıza çıkar.
+Renk anlamı [aala](/pt/aala) sözcüğünün kökü olarak karşımıza çıkar.
 
 ## **Hile**
 
