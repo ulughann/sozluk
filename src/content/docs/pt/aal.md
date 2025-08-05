@@ -23,7 +23,7 @@ Clauson: bu kelimenin Moğolcaya, hükümdarların belgeleri mühürlemek için 
 
 Oğuz Kağanın belirli metinlerde al közler "al gözlü" biçiminde tasvir edilmesi ala > ela gibi bir ses değişimine işaret edebilir.
 
-Bu bağlamda [aalaa](/pt/aalaa) sözcüğü ile bağı tartışmaya açıktır..
+Bu bağlamda [aala](/pt/aala) sözcüğü ile bağı tartışmaya açıktır..
 
 ## **Hile**
 
