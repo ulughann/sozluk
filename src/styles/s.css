@@ -49,9 +49,10 @@
   background-color: #4642421f;
 }
 
-h1 {
+h1, h2 {
   font-family: serif;
 }
+
 
 p {
   font-size: 20px;
