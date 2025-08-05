@@ -17,7 +17,7 @@ Erken dillerin çoğunda ak ile kara sözlerinin ardından gelen renk adı hem a
 
 Clauson: bu kelimenin Moğolcaya, hükümdarların belgeleri mühürlemek için kullandığı **çin kaynaklı kırmızı mürekkebin rengi** anlamında Türkçeden girmiş olduğun belirtir.
 
-> al sang -> kırmızımsı sarı (Eski Uygurca, 8.y.y.)
+> al sarığ -> kırmızımsı sarı (Eski Uygurca, 8.y.y.)
 
 >  hükümdarların sancaklarının yapıldığı ve yakınlarının eyerlerinin kaplandığı turuncu renkli brokar (değerli kumaş). **Turuncu&#32;**(Dîvânu Lugâti't-Türk, 11.yy.)
 
