@@ -1,6 +1,6 @@
 ---
-title: aalaa
-description: Ön Türkçe Sözlük - aalaa
+title: aala
+description: Ön Türkçe Sözlük - aala
 type:
   - sıfat
 variants: []
@@ -9,7 +9,9 @@ variants: []
 
 Proto kök: Alacalı, benekli, lekeli, karışık renkli anlamlarına gelir ancak iki yüzlü, hain, art niyetli, gizli düşüncelere sahip gibi mecazi anlamalr da tarihi süreçte yüklenmiştir.
 
-[Aal](/pt/aal) "kırmızı, renk" sözcüğünden türemiş olduğu düşünülmüştür ancak +AA biçiminde bir ekin emsali yoktur. Buna karşın kökün kendisi yapısal anlamda düşündürücüdür.
+[Aal](/pt/aal) "kırmızı, renk" sözcüğüyle ilgili olabilir ancak bu kantılı değildir.
+
+Türkmence aala uzun ünlüyü kanıtlar. 
 
 > a:la: atlı:ğ yol teŋri: men - Ben alaca atlı yol tanrısıyım (Irk bitig 8.yy.)
 
