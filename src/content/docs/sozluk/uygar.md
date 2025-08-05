@@ -1,5 +1,6 @@
 ---
 title: Uygar
+description: Öz Türkçe Sözlük - Uygar
 type:
   - sıfat
 synonyms:

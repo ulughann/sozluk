@@ -1,5 +1,6 @@
 ---
 title: Ayraç
+description: Öz Türkçe Sözlük - Ayraç
 category:
   - Yazın bilim
   - Yazılım ve teknoloji

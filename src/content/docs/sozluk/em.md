@@ -1,5 +1,6 @@
 ---
 title: Em
+description: Öz Türkçe Sözlük - Em
 type:
   - isim
 category:

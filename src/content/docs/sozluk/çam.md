@@ -1,5 +1,6 @@
 ---
 title: Çam
+description: Öz Türkçe Sözlük - Çam
 type:
   - isim
 category:

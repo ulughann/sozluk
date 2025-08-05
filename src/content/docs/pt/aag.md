@@ -1,5 +1,6 @@
 ---
 title: aag
+description: Ön Türkçe Sözlük - aag
 type:
   - isim
 variants:

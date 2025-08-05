@@ -1,5 +1,6 @@
 ---
 title: Bay
+description: Öz Türkçe Sözlük - Bay
 type:
   - sıfat
   - isim

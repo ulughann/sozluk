@@ -1,5 +1,6 @@
 ---
 title: aab
+description: Ön Türkçe Sözlük - aab
 type:
   - isim
 variants:

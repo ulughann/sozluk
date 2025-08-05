@@ -1,5 +1,6 @@
 ---
 title: Çevrimdışı
+description: Öz Türkçe Sözlük - Çevrimdışı
 type:
   - sıfat
 category:

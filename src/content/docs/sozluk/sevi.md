@@ -1,5 +1,6 @@
 ---
 title: Sevi
+description: Öz Türkçe Sözlük - Sevi
 lastUpdated: 2025-07-29T14:07:00.000+03:00
 synonyms:
   - Aşk

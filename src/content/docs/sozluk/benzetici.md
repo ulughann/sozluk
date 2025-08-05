@@ -1,5 +1,6 @@
 ---
 title: Benzetici
+description: Öz Türkçe Sözlük - Benzetici
 type:
   - isim
 category:

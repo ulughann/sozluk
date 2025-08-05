@@ -1,5 +1,6 @@
 ---
 title: Yaşkın
+description: Öz Türkçe Sözlük - Yaşkın
 type:
   - sıfat
 synonyms:

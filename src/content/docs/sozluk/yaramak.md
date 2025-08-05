@@ -1,5 +1,6 @@
 ---
 title: Yaramak
+description: Öz Türkçe Sözlük - Yaramak
 type:
   - fiil
 synonyms:

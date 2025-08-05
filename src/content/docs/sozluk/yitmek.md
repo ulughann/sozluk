@@ -1,5 +1,6 @@
 ---
 title: Yitmek
+description: Öz Türkçe Sözlük - Yitmek
 type:
   - fiil
 synonyms:

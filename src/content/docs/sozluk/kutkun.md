@@ -1,5 +1,6 @@
 ---
 title: Kutkun
+description: Öz Türkçe Sözlük - Kutkun
 type:
   - sıfat
 synonyms:

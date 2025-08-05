@@ -1,5 +1,6 @@
 ---
 title: Değre
+description: Öz Türkçe Sözlük - Değre
 synonyms:
   - harita
   - daire

@@ -1,5 +1,6 @@
 ---
 title: Esen
+description: Öz Türkçe Sözlük - Esen
 type:
   - sıfat
 synonyms:

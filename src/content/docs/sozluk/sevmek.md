@@ -1,5 +1,6 @@
 ---
 title: Sevmek
+description: Öz Türkçe Sözlük - Sevmek
 type:
     - fiil
 lastUpdated: 2025-07-29T13:43:00.000+03:00

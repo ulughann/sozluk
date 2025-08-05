@@ -1,5 +1,6 @@
 ---
 title: biř
+description: Ön Türkçe Sözlük - biř
 type:
   - zamir
 variants:

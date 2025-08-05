@@ -1,5 +1,6 @@
 ---
 title: Bürünmek
+description: Öz Türkçe Sözlük - Bürünmek
 type:
     - fiil
 lastUpdated: 2025-07-29T14:35:00.000+03:00

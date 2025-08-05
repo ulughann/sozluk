@@ -1,5 +1,6 @@
 ---
 title: İş
+description: Öz Türkçe Sözlük - İş
 type:
   - isim
 lastUpdated: 2025-07-29T14:25:00.000+03:00

@@ -1,5 +1,6 @@
 ---
 title: aalaa
+description: Ön Türkçe Sözlük - aalaa
 type:
   - sıfat
 variants: []

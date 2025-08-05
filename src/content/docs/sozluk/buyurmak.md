@@ -1,5 +1,6 @@
 ---
 title: Buyurmak
+description: Öz Türkçe Sözlük - Buyurmak
 type:
   - fiil
 synonyms:

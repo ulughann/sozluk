@@ -1,5 +1,6 @@
 ---
 title: tẹg-
+description: Ön Türkçe Sözlük - tẹg-
 type:
   - fiil
 variants:

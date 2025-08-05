@@ -1,5 +1,6 @@
 ---
 title: Bellemek
+description: Öz Türkçe Sözlük - Bellemek
 type:
   - fiil
 synonyms:

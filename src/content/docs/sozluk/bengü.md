@@ -1,5 +1,6 @@
 ---
 title: Bengi
+description: Öz Türkçe Sözlük - Bengi
 type:
   - sıfat
 synonyms:

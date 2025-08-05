@@ -1,5 +1,6 @@
 ---
 title: Bayındır
+description: Öz Türkçe Sözlük - Bayındır
 type:
   - sıfat
 synonyms:

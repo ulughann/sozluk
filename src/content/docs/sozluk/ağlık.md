@@ -1,5 +1,6 @@
 ---
 title: Ağlık
+description: Öz Türkçe Sözlük - Ağlık
 type:
   - isim
 category:

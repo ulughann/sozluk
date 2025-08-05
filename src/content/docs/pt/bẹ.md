@@ -1,5 +1,6 @@
 ---
 title: bẹ
+description: Ön Türkçe Sözlük - bẹ
 type:
   - zamir
 variants:

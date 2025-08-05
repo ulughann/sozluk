@@ -1,5 +1,6 @@
 ---
 title: Çevrimiçi
+description: Öz Türkçe Sözlük - Çevrimiçi
 type:
   - sıfat
 category:

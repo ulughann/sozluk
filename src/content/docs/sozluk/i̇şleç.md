@@ -1,5 +1,6 @@
 ---
 title: İşleç
+description: Öz Türkçe Sözlük - İşleç
 lastUpdated: 2025-07-29T11:15:00.000+03:00
 synonyms:
   - fonksiyon

@@ -1,5 +1,6 @@
 ---
 title: Ha
+description: Öz Türkçe Sözlük - Ha
 type:
   - ünlem
 lastUpdated: 2025-07-20T10:50:00.000+03:00

@@ -1,5 +1,6 @@
 ---
 title: siř
+description: Ön Türkçe Sözlük - siř
 type:
   - zamir
 variants:

@@ -1,5 +1,6 @@
 ---
 title: Emen
+description: Öz Türkçe Sözlük - Emen
 type:
   - isim
 category:

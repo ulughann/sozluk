@@ -1,5 +1,6 @@
 ---
 title: aal
+description: Ön Türkçe Sözlük - aal
 type:
   - isim
 variants:

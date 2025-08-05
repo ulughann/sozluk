@@ -1,5 +1,6 @@
 ---
 title: Kutmak
+description: Öz Türkçe Sözlük - Kutmak
 type:
   - fiil
 synonyms:

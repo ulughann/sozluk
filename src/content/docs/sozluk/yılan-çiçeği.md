@@ -1,5 +1,6 @@
 ---
 title: Yılan çiçeği
+description: Öz Türkçe Sözlük - Yılan çıgı
 type:
   - isim
 category:

@@ -1,5 +1,8 @@
 ---
 title: Susuş
+description: Öz Türkçe Sözlük - Susuş
+type:
+  - isim
 synonyms:
   - çay
   - tea

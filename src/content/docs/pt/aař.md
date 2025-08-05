@@ -1,5 +1,6 @@
 ---
 title: aař
+description: Ön Türkçe Sözlük - aař
 type:
   - isim
 variants:

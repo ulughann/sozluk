@@ -1,10 +1,12 @@
 ---
 title: Evet
+description: Öz Türkçe Sözlük - Evet
 lastUpdated: 2025-07-20T10:39:00.000+03:00
 type: 
     - ünlem
 ---
-Bu sözcük [ēb-](/sozluk/ivmek) "ivmek" eylemine +A eki getirilerek oluşan ēbe "acele" ara formuna et- eylemninin gelmesi ile oluşmuştur.
+
+Bu sözcük [iv-](/sozluk/ivmek) "ivmek" eylemine +A eki getirilerek oluşan ēbe "acele" ara formuna et- eylemninin gelmesi ile oluşmuştur. Bu sözcük Ön Türkçe [eeb](/pt/eeb) sözcüğünden 
 
 Çuvaşça iye ve avan aynı köktendir.
 

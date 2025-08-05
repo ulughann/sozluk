@@ -1,5 +1,6 @@
 ---
 title: aa-
+description: Ön Türkçe Sözlük - aa-
 type:
   - fiil
 variants:

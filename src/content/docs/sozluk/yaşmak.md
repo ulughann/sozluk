@@ -1,5 +1,6 @@
 ---
 title: Yaşmak
+description: Öz Türkçe Sözlük - Yaşmak
 type:
   - fiil
 synonyms:

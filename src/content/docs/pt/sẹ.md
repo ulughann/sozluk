@@ -1,5 +1,6 @@
 ---
 title: sẹ
+description: Ön Türkçe Sözlük - sẹ
 type:
   - zamir
 variants:

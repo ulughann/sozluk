@@ -1,5 +1,6 @@
 ---
 title: Arça
+description: Öz Türkçe Sözlük - Arça
 type:
   - isim
 category:

@@ -1,5 +1,6 @@
 ---
 title: Bellek
+description: Öz Türkçe Sözlük - Bellek
 category:
   - Yazılım ve teknoloji
 lastUpdated: 2025-07-29T09:21:00.000+03:00
