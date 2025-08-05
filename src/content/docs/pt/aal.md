@@ -9,7 +9,9 @@ variants:
 ---
 **T.T. al**
 
-> Çoğu erken dillerde "ak" ve "kara"dan sonra üçüncü rengi belirten sözcük "renkli, alaca" ve "kırmızı" anlamlarını taşır. Karş. **İspanyolca** _colorado_ "1. renkli, 2. kırmızı". Ayrıca **Sanskritçe** _rāga,_ **Farsça** _rang_ "1. renk, özellikle al renk, 2. düzen, hile". (Sevan Nişanyan, 4 Ağustos 2025 itibari ile)
+Erken dillerin çoğunda ak ile kara sözlerinin ardından gelen renk adı hem al "kırmızı" hem de genel olarak renk anlamını taşır.
+
+> Karş. **İspanyolca** _colorado_ "1. renkli, 2. kırmızı". Ayrıca **Sanskritçe** _rāga,_ **Farsça** _rang_ "1. renk, özellikle al renk, 2. düzen, hile". (Sevan Nişanyan, 4 Ağustos 2025 itibari ile)
 
 ## **Renk, Kırmızı**
 
