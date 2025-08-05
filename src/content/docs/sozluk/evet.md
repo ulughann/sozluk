@@ -6,7 +6,7 @@ type:
     - ünlem
 ---
 
-Bu sözcük [iv-](/sozluk/ivmek) "ivmek" eylemine +A eki getirilerek oluşan ēbe "acele" ara formuna et- eylemninin gelmesi ile oluşmuştur. Bu sözcük Ön Türkçe [eeb](/pt/eeb) sözcüğünden 
+Bu sözcük [iv-](/sozluk/ivmek) "ivmek" eylemine +A eki getirilerek oluşan ēbe "acele" ara formuna et- eylemninin gelmesi ile oluşmuştur. Bu sözcük Ön Türkçe [eeb-](/pt/eeb-) sözcüğünden miras alınmıştır.
 
 Çuvaşça iye ve avan aynı köktendir.
 
