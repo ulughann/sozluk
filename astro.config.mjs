@@ -4,7 +4,7 @@ import starlightThemeObsidian from "starlight-theme-obsidian";
 import starlightLinksValidator from 'starlight-links-validator'
  // https://astro.build/config
 export default defineConfig({
-  site: "https://sozluk.ulughan.tv",
+  site: "https://sozluk.ulug.tr",
   base: "/",
   integrations: [
     starlight({
