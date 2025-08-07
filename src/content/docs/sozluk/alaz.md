@@ -15,9 +15,14 @@ al + -Az
 Alev. Uzaktan izlenilip sevilen, yaklaşılmaktan korkulan, ulaşılmaz sevgi/sevgili, arman.
 
 > Uzaklardan izler dururum.
+> 
 > Arısın, yalkımlısın.
+> 
 > Alazımsın.
 > 
+> 
 > Elim' incinmesinden korkarım.
+> 
 > Uzaktan izlediğim
+> 
 > Yalkımlı alazımsın.
