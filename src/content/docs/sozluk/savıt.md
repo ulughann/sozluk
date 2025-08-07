@@ -9,8 +9,7 @@ synonyms:
   - zırh
 variants: []
 ---
-1. [Sab-](/pt/sab-) "durdurmak" + Ut
-
-2. Kökü bilinmeyip öz anlamı "âlet" iken sonradan silah (bkz. Türkmence sowut "ordu") ve oradan da zırh anlamı kazanmış olabilir. Benzer bir değişim \*kuńak sözcüğü için de yaşanmıştır.
+1. Kökü bilinmeyip öz anlamı "âlet" iken sonradan silah (bkz. Türkmence sowut "ordu") ve oradan da zırh anlamı kazanmış olabilir. Benzer bir değişim \*kuńak sözcüğü için de yaşanmıştır.
+2. [Sab-](/pt/sab-) "durdurmak" + Ut
 
 Kırgızva савыт (sawıt), Kazakça сауыт (sawyt), Karakalpakça савыт, Nogayca sawıt, Altayca савыт, Tuvaca савыт / савут, Özbekçe sovut zırh anlamındadır.
