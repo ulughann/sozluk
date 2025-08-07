@@ -1,6 +1,6 @@
 ---
 title: sab-
-description: Ön Türkçe Sözlük - {{title}}
+description: Ön Türkçe Sözlük - sab-
 type:
   - fiil
 variants: []

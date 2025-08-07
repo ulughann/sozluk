@@ -1,6 +1,6 @@
 ---
 title: Alaz
-description: Öz Türkçe Sözlük - {{title}} ne demek?
+description: Öz Türkçe Sözlük - Alaz ne demek?
 type:
   - isim
   - sıfat

@@ -1,6 +1,6 @@
 ---
 title: Savıt
-description: Öz Türkçe Sözlük - {{title}}
+description: Öz Türkçe Sözlük - Savıt
 type:
   - isim
 category: []
