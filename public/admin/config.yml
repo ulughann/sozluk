@@ -8,7 +8,7 @@ collections:
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Açıklama", name: "description", widget: "text", required: false, default: 'Öz Türkçe Sözlük - {{title}}' }
       - { label: "Sözcük türü", name: "type", widget: "select", multiple: true, options: ["isim", "fiil", "sıfat", "bağlaç", "edat", "zamir", "ünlem", "zarf", "diğer"], default: "isim" }
-      - { label: "Kategori", name: "category", widget: "select", multiple: true, options: ["Doğal bilimler", "Sayı bilim", "Sosyal bilimler", "Yazın bilim", "Sanat", "Günlük yaşam", "Yazılım ve teknoloji", "Bitki bilim", "Tıp", "Tarım", "Hukuk"], default: [] }
+      - { label: "Kategori", required: false, name: "category", widget: "select", multiple: true, options: ["Doğal bilimler", "Sayı bilim", "Sosyal bilimler", "Yazın bilim", "Sanat", "Günlük yaşam", "Yazılım ve teknoloji", "Bitki bilim", "Tıp", "Tarım", "Hukuk"], default: [] }
       - { label: "Tarih" , name: "lastUpdated", widget: "datetime", required: false, default: '{{now}}' }
       - label: "Eş anlamlılar"
         name: "synonyms"
