@@ -1,12 +1,17 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightThemeObsidian from "starlight-theme-obsidian";
-import starlightLinksValidator from 'starlight-links-validator'
- // https://astro.build/config
+import mermaid from "astro-mermaid";
+import starlightLinksValidator from "starlight-links-validator";
+// https://astro.build/config
 export default defineConfig({
   site: "https://sozluk.ulug.tr",
   base: "/",
   integrations: [
+    mermaid({
+      theme: "forest",
+      autoTheme: true,
+    }),
     starlight({
       favicon: "./public/favicon.svg",
       logo: {
@@ -14,7 +19,7 @@ export default defineConfig({
         light: "./src/assets/light.png",
         replacesTitle: true,
       },
-      
+
       defaultLocale: "root",
       locales: {
         root: {
@@ -30,11 +35,11 @@ export default defineConfig({
             centerForce: 0,
             enableHover: true,
             renderArrows: true,
-            arrowSize: 3
+            arrowSize: 3,
           },
         }),
 
-        starlightLinksValidator()
+        starlightLinksValidator(),
       ],
       sidebar: [
         {
@@ -44,7 +49,7 @@ export default defineConfig({
       ],
       components: {
         PageTitle: "./src/components/starlight/PageTitle.astro",
-        MarkdownContent: "./src/components/starlight/MarkdownContent.astro"
+        MarkdownContent: "./src/components/starlight/MarkdownContent.astro",
       },
       title: "Bilgin Sözlük",
       pagination: false,
@@ -54,7 +59,6 @@ export default defineConfig({
           label: "Yazılar",
           autogenerate: { directory: "yazilar" },
           collapsed: false,
-         
         },
         {
           label: "Sözlük",
@@ -70,7 +74,7 @@ export default defineConfig({
           label: "Ön Türkçe",
           autogenerate: { directory: "pt" },
           collapsed: true,
-        }
+        },
       ],
     }),
   ],
