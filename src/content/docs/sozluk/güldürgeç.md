@@ -1,6 +1,7 @@
 ---
 title: Güldürgeç
-description: Öz Türkçe Sözlük - Güldürgeç
+description: Öz Türkçe Sözlük - - Güldürgeç 
+ - Güldürgeç ne demek?
 lastUpdated: 2025-07-19T12:35:00.000+03:00
 synonyms:
   - espri

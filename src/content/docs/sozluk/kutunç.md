@@ -1,6 +1,7 @@
 ---
 title: Kutunç
-description: Öz Türkçe Sözlük - Kutunç
+description: Öz Türkçe Sözlük - - Kutunç 
+ - Kutunç ne demek?
 lastUpdated: 2025-07-22T11:40:00.000+03:00
 synonyms:
   - sabır

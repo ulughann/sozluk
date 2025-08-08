@@ -1,6 +1,7 @@
 ---
 title: Uygarlık
-description: Öz Türkçe Sözlük - Uygarlık
+description: Öz Türkçe Sözlük - - Uygarlık 
+ - Uygarlık ne demek?
 lastUpdated: 2025-07-20T12:58:00.000+03:00
 synonyms:
   - medeniyet

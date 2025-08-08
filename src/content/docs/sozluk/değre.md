@@ -1,6 +1,7 @@
 ---
 title: Değre
-description: Öz Türkçe Sözlük - Değre
+description: Öz Türkçe Sözlük - - Değre 
+ - Değre ne demek?
 synonyms:
   - harita
   - daire

@@ -1,6 +1,7 @@
 ---
 title: İvmek
-description: Öz Türkçe Sözlük - İvmek
+description: Öz Türkçe Sözlük - - İvmek 
+ - İvmek ne demek?
 type:
   - fiil
 synonyms:

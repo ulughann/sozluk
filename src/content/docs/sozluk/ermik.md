@@ -1,6 +1,7 @@
 ---
 title: Ermik
-description: Öz Türkçe Sözlük - Ermik
+description: Öz Türkçe Sözlük - - Ermik 
+ - Ermik ne demek?
 category:
   - Doğal bilimler
 lastUpdated: 2025-07-17T14:52:00.000+03:00

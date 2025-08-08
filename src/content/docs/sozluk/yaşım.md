@@ -1,6 +1,7 @@
 ---
 title: Yaşım
-description: Öz Türkçe Sözlük - Yaşım
+description: Öz Türkçe Sözlük - - Yaşım 
+ - Yaşım ne demek?
 lastUpdated: 2025-07-19T16:06:00.000+03:00
 synonyms:
   - sır

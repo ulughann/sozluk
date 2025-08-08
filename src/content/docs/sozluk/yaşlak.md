@@ -1,6 +1,7 @@
 ---
 title: Yaşlak
-description: Öz Türkçe Sözlük - Yaşlak
+description: Öz Türkçe Sözlük - - Yaşlak 
+ - Yaşlak ne demek?
 lastUpdated: 2025-07-19T16:40:00.000+03:00
 synonyms:
   - giz

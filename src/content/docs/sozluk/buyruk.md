@@ -1,6 +1,7 @@
 ---
 title: Buyruk
-description: Öz Türkçe Sözlük - Buyruk
+description: Öz Türkçe Sözlük - - Buyruk 
+ - Buyruk ne demek?
 synonyms:
   - emir
   - ferman

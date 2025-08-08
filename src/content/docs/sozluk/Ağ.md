@@ -1,6 +1,7 @@
 ---
 title: Ağ
-description: Öz Türkçe Sözlük - Ağ
+description: Öz Türkçe Sözlük - - Ağ 
+ - Ağ ne demek?
 synonyms:
   - internet
   - net

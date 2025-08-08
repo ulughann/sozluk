@@ -1,6 +1,7 @@
 ---
 title: Değmek
-description: Öz Türkçe Sözlük - Değmek
+description: Öz Türkçe Sözlük - - Değmek 
+ - Değmek ne demek?
 type:
   - fiil
 synonyms:

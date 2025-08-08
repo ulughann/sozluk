@@ -1,6 +1,7 @@
 ---
 title: Bürünme
-description: Öz Türkçe Sözlük - Bürünme
+description: Öz Türkçe Sözlük - - Bürünme 
+ - Bürünme ne demek?
 lastUpdated: 2025-07-29T14:30:00.000+03:00
 synonyms:
   - Cosplay

@@ -1,6 +1,7 @@
 ---
 title: Evet
-description: Öz Türkçe Sözlük - Evet
+description: Öz Türkçe Sözlük - - Evet 
+ - Evet ne demek?
 lastUpdated: 2025-07-20T10:39:00.000+03:00
 type: 
     - ünlem

@@ -1,6 +1,7 @@
 ---
 title: Devinmek
-description: Öz Türkçe Sözlük - Devinmek
+description: Öz Türkçe Sözlük - - Devinmek 
+ - Devinmek ne demek?
 type:
   - fiil
 lastUpdated: 2025-07-29T11:58:00.000+03:00

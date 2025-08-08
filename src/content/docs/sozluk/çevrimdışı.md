@@ -1,6 +1,7 @@
 ---
 title: Çevrimdışı
-description: Öz Türkçe Sözlük - Çevrimdışı
+description: Öz Türkçe Sözlük - - Çevrimdışı 
+ - Çevrimdışı ne demek?
 type:
   - sıfat
 category:
