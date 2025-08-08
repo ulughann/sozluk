@@ -1,6 +1,6 @@
 ---
 title: Devinik
-description: Öz Türkçe Sözlük - - Devinik 
+description: Öz Türkçe Sözlük - Devinik 
  - Devinik ne demek?
 type:
   - sıfat

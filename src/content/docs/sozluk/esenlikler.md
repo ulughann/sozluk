@@ -1,6 +1,6 @@
 ---
 title: Esenlikler
-description: Öz Türkçe Sözlük - - Esenlikler 
+description: Öz Türkçe Sözlük - Esenlikler 
  - Esenlikler ne demek?
 type: 
   - ünlem

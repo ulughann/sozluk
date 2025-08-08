@@ -1,6 +1,6 @@
 ---
 title: Devingen
-description: Öz Türkçe Sözlük - - Devingen 
+description: Öz Türkçe Sözlük - Devingen 
  - Devingen ne demek?
 type:
   - sıfat

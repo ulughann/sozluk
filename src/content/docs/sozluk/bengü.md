@@ -1,6 +1,6 @@
 ---
 title: Bengi
-description: Öz Türkçe Sözlük - - Bengi 
+description: Öz Türkçe Sözlük - Bengi 
  - Bengi ne demek?
 type:
   - sıfat

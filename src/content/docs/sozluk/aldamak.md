@@ -1,5 +1,7 @@
 ---
 title: Aldamak
+description: Öz Türkçe Sözlük - Aldamak ne demek? 
+ - Aldamak ne demek? ne demek?
 type:
   - fiil
 category: []

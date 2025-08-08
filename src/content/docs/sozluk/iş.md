@@ -1,6 +1,6 @@
 ---
 title: İş
-description: Öz Türkçe Sözlük - - İş 
+description: Öz Türkçe Sözlük - İş 
  - İş ne demek?
 type:
   - isim

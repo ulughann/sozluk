@@ -1,6 +1,6 @@
 ---
 title: Balçam
-description: Öz Türkçe Sözlük - - Balçam 
+description: Öz Türkçe Sözlük - Balçam 
  - Balçam ne demek?
 type:
   - isim

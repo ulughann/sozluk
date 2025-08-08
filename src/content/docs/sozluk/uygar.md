@@ -1,6 +1,6 @@
 ---
 title: Uygar
-description: Öz Türkçe Sözlük - - Uygar 
+description: Öz Türkçe Sözlük - Uygar 
  - Uygar ne demek?
 type:
   - sıfat

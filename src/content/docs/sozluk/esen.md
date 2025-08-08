@@ -1,6 +1,6 @@
 ---
 title: Esen
-description: Öz Türkçe Sözlük - - Esen 
+description: Öz Türkçe Sözlük - Esen 
  - Esen ne demek?
 type:
   - sıfat

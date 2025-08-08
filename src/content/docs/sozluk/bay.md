@@ -1,6 +1,6 @@
 ---
 title: Bay
-description: Öz Türkçe Sözlük - - Bay 
+description: Öz Türkçe Sözlük - Bay 
  - Bay ne demek?
 type:
   - sıfat

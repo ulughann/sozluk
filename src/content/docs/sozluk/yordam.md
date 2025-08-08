@@ -1,6 +1,6 @@
 ---
 title: Yordam
-description: Öz Türkçe Sözlük - - Yordam 
+description: Öz Türkçe Sözlük - Yordam 
  - Yordam ne demek?
 category:
   - Yazılım ve teknoloji

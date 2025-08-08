@@ -1,6 +1,6 @@
 ---
 title: Yaray
-description: Öz Türkçe Sözlük - - Yaray 
+description: Öz Türkçe Sözlük - Yaray 
  - Yaray ne demek?
 type:
   - ünlem

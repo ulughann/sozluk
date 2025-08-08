@@ -1,6 +1,6 @@
 ---
 title: Kutmak
-description: Öz Türkçe Sözlük - - Kutmak 
+description: Öz Türkçe Sözlük - Kutmak 
  - Kutmak ne demek?
 type:
   - fiil

@@ -1,6 +1,6 @@
 ---
 title: Çevrim
-description: Öz Türkçe Sözlük - - Çevrim 
+description: Öz Türkçe Sözlük - Çevrim 
  - Çevrim ne demek?
 category:
   - Yazılım ve teknoloji

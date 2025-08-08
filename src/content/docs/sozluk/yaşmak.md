@@ -1,6 +1,6 @@
 ---
 title: Yaşmak
-description: Öz Türkçe Sözlük - - Yaşmak 
+description: Öz Türkçe Sözlük - Yaşmak 
  - Yaşmak ne demek?
 type:
   - fiil

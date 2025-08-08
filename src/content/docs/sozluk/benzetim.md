@@ -1,6 +1,6 @@
 ---
 title: Benzetim
-description: Öz Türkçe Sözlük - - Benzetim 
+description: Öz Türkçe Sözlük - Benzetim 
  - Benzetim ne demek?
 type:
   - isim

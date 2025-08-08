@@ -1,6 +1,6 @@
 ---
 title: Tüs
-description: Öz Türkçe Sözlük - - Tüs 
+description: Öz Türkçe Sözlük - Tüs 
  - Tüs ne demek?
 lastUpdated: 2025-07-17T14:56:00.000+03:00
 synonyms:

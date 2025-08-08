@@ -1,6 +1,6 @@
 ---
 title: Ha
-description: Öz Türkçe Sözlük - - Ha 
+description: Öz Türkçe Sözlük - Ha 
  - Ha ne demek?
 type:
   - ünlem

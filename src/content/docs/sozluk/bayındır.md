@@ -1,6 +1,6 @@
 ---
 title: Bayındır
-description: Öz Türkçe Sözlük - - Bayındır 
+description: Öz Türkçe Sözlük - Bayındır 
  - Bayındır ne demek?
 type:
   - sıfat

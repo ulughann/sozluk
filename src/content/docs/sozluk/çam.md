@@ -1,6 +1,6 @@
 ---
 title: Çam
-description: Öz Türkçe Sözlük - - Çam 
+description: Öz Türkçe Sözlük - Çam 
  - Çam ne demek?
 type:
   - isim

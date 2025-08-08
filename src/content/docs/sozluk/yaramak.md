@@ -1,6 +1,6 @@
 ---
 title: Yaramak
-description: Öz Türkçe Sözlük - - Yaramak 
+description: Öz Türkçe Sözlük - Yaramak 
  - Yaramak ne demek?
 type:
   - fiil

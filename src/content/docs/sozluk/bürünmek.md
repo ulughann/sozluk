@@ -1,6 +1,6 @@
 ---
 title: Bürünmek
-description: Öz Türkçe Sözlük - - Bürünmek 
+description: Öz Türkçe Sözlük - Bürünmek 
  - Bürünmek ne demek?
 type:
     - fiil

@@ -1,6 +1,6 @@
 ---
 title: Em
-description: Öz Türkçe Sözlük - - Em 
+description: Öz Türkçe Sözlük - Em 
  - Em ne demek?
 type:
   - isim

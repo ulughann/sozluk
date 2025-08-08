@@ -1,6 +1,6 @@
 ---
 title: Yaşkın
-description: Öz Türkçe Sözlük - - Yaşkın 
+description: Öz Türkçe Sözlük - Yaşkın 
  - Yaşkın ne demek?
 type:
   - sıfat

@@ -1,6 +1,6 @@
 ---
 title: Esmek
-description: Öz Türkçe Sözlük - - Esmek 
+description: Öz Türkçe Sözlük - Esmek 
  - Esmek ne demek?
 type: 
     - fiil

@@ -1,6 +1,6 @@
 ---
 title: Buyurtma
-description: Öz Türkçe Sözlük - - Buyurtma 
+description: Öz Türkçe Sözlük - Buyurtma 
  - Buyurtma ne demek?
 synonyms:
   - sipariş

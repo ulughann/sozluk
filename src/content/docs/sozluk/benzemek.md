@@ -1,6 +1,6 @@
 ---
 title: Benzemek
-description: Öz Türkçe Sözlük - - Benzemek 
+description: Öz Türkçe Sözlük - Benzemek 
  - Benzemek ne demek?
 type:
     - fiil

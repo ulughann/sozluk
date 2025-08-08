@@ -1,6 +1,6 @@
 ---
 title: Sevmek
-description: Öz Türkçe Sözlük - - Sevmek 
+description: Öz Türkçe Sözlük - Sevmek 
  - Sevmek ne demek?
 type:
     - fiil

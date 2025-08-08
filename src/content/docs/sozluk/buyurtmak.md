@@ -1,6 +1,6 @@
 ---
 title: Buyurtmak
-description: Öz Türkçe Sözlük - - Buyurtmak 
+description: Öz Türkçe Sözlük - Buyurtmak 
  - Buyurtmak ne demek?
 type:
   - fiil

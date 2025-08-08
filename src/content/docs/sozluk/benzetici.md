@@ -1,6 +1,6 @@
 ---
 title: Benzetici
-description: Öz Türkçe Sözlük - - Benzetici 
+description: Öz Türkçe Sözlük - Benzetici 
  - Benzetici ne demek?
 type:
   - isim
