@@ -1,6 +1,6 @@
 ---
 title: aab
-description: Ön Türkçe Sözlük - aab
+description: 'Ön Türkçe Sözlük : aab'
 type:
   - isim
 variants:
@@ -18,3 +18,6 @@ Karahanlıca ااڤْ (āv) ve Türkmence āv formları sözcüğün uzun ünl
 
 > **ab** **abla**sar ermeli teg erti (Kül İç Çor Yazıtı, 8. yy.)
 
+Sözcüğün aynı zamanda "wild game" - av oyunu gibi bir anlamı vardır.
+
+> Suburğāndā ew bōlmas, topurğāndā āw bōlmas. ― Mezarlıkta ev olmaz, toprakta av olmaz. (Karahanlıac)
