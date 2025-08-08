@@ -7,4 +7,6 @@ variants: []
 ---
 _Kurumak, toza dönüşmek_
 
-Fiil yapan +rA eki olmadığından bu fiilin kökeni düşündürücüdür.
++rA- eki tapra-, yeşer- gibi sözlerde de bulunmaktadır.
+
+Top? kökü açık değildir.
