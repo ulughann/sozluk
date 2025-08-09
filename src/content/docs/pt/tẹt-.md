@@ -1,16 +1,16 @@
 ---
-title: tẹt-
-description: 'Ön Türkçe Sözlük : tẹt-'
+title: tét-
+description: 'Ön Türkçe Sözlük : tét-'
 type:
   - fiil
 variants: []
 ---
 Bu sözcük Dîvânu Lugâti't-Türk'te "karşı çıkmak" anlamı ile kullanılmıştır.
 
-> qul beegke tẹtti - köle beye karşı çıktı (DLT, 11.yy.)
+> qul beegke tétti - köle beye karşı çıktı (DLT, 11.yy.)
 
 Aynı zamanda: 
 
-- tẹtrü : herhangi bir şeyin tersine dönmüş hâli,
+- tétrü : herhangi bir şeyin tersine dönmüş hâli,
 
-- tẹtrü- : yön değiştirmek
+- tétrü- : yön değiştirmek
