@@ -1,6 +1,6 @@
 ---
-title: tẹrs
-description: 'Ön Türkçe Sözlük : tẹrs'
+title: teers
+description: 'Ön Türkçe Sözlük : ters'
 type:
   - sıfat
 variants: []
