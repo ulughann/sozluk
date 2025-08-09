@@ -1,5 +1,5 @@
 ---
-title: teers
+title: ters
 description: 'Ön Türkçe Sözlük : ters'
 type:
   - sıfat
