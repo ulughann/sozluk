@@ -6,6 +6,7 @@ type:
 variants:
   - kany-
   - kayn-
+  - kayna-
 ---
 **T.T. Kayna-**
 
