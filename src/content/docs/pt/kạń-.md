@@ -10,7 +10,7 @@ variants:
 ---
 **T.T. Kayna-**
 
-kạń- kökünü Clauson tarafından da kanak (kaymak tabakası). Uyğ. vııı ff. Bud. sözcüğü ile doğrulanır.
+kạń- kökü Clauson tarafından da kanak (kaymak tabakası). Uyğ. vııı ff. Bud. sözcüğü ile doğrulanır.
 
 <code>ń</code>'in <code>yUn,  yIn, y, n, n>m</code> biçimlerinde açılması yaygındır. Bkz. TT. koń > koyun
 
