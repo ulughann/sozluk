@@ -61,7 +61,7 @@ export default defineConfig({
           collapsed: false,
         },
         {
-          label: "Sözlük",
+          label: "Türkiye Türkçesi",
           autogenerate: { directory: "sozluk" },
           collapsed: true,
         },
