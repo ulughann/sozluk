@@ -56,25 +56,6 @@ collections:
         widget: "list"
         required: false
         allow_add: true
-      - { label: "İçerik", name: "body", widget: "markdown" }
-      - {label: "Türkçe" name: "tr" widget: "string" required: false}
-      - { label: "Azerice", name: "az", widget: "string", required: false }
-      - { label: "Türkmence", name: "tk", widget: "string", required: false }
-      - { label: "Gagavuzca", name: "gag", widget: "string", required: false }
-      - { label: "Çuvaşça", name: "chv", widget: "string", required: false }
-      - { label: "Tuvaca", name: "tyv", widget: "string", required: false }
-      - { label: "Hakasça", name: "kjh", widget: "string", required: false }
-      - { label: "Kazakça", name: "kk", widget: "string", required: false }
-      - { label: "Kırgızca", name: "ky", widget: "string", required: false }
-      - { label: "Kırım Tatarcası", name: "crh", widget: "string", required: false }
-      - { label: "Volga Tatarcası", name: "vot", widget: "string", required: false }
-      - { label: "Karakalpakça", name: "kaa", widget: "string", required: false }
-      - { label: "Özbekçe", name: "uz", widget: "string", required: false }
-      - { label: "Uygurca", name: "ug", widget: "string", required: false }
-      - { label: "Altayca", name: "alt", widget: "string", required: false }
-      - { label: "Yakutça", name: "sah", widget: "string", required: false }
-      - { label: "Tatarca", name: "tt", widget: "string", required: false }
-      - { label: "Başkurtça", name: "ba", widget: "string", required: false }
 
   - name: "pt-ekler"
     label: "Ön Türkçe Ekler"

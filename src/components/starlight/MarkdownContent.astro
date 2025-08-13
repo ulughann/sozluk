@@ -2,6 +2,8 @@
 import Default from '@astrojs/starlight/components/MarkdownContent.astro';
 let { type = [] } = Astro.locals.starlightRoute.entry.data || {};
 let { variants = [] } = Astro.locals.starlightRoute.entry.data || {};
+let {az, tk, gag, chv, tyv, kjh, kk, ky, crh, vot, kaa, uz, ug, alt, sah, tt, ba} = Astro.locals.starlightRoute.entry.data || {};
+let t: Record<string, string> = {};
 
 let v = variants.toString().replace(/,/g, ", ");
 
@@ -10,11 +12,54 @@ let word = "Öz Türkçe"
 let url = Astro.url.pathname;
 if (url.startsWith("/pt/")) {
   word = "Ön Türkçe"
+  /*
+  - {label: "Türkçe" name: "tr" widget: "string" required: false}
+      - { label: "Azerice", name: "az", widget: "string", required: false }
+      - { label: "Türkmence", name: "tk", widget: "string", required: false }
+      - { label: "Gagavuzca", name: "gag", widget: "string", required: false }
+      - { label: "Çuvaşça", name: "chv", widget: "string", required: false }
+      - { label: "Tuvaca", name: "tyv", widget: "string", required: false }
+      - { label: "Hakasça", name: "kjh", widget: "string", required: false }
+      - { label: "Kazakça", name: "kk", widget: "string", required: false }
+      - { label: "Kırgızca", name: "ky", widget: "string", required: false }
+      - { label: "Kırım Tatarcası", name: "crh", widget: "string", required: false }
+      - { label: "Volga Tatarcası", name: "vot", widget: "string", required: false }
+      - { label: "Karakalpakça", name: "kaa", widget: "string", required: false }
+      - { label: "Özbekçe", name: "uz", widget: "string", required: false }
+      - { label: "Uygurca", name: "ug", widget: "string", required: false }
+      - { label: "Altayca", name: "alt", widget: "string", required: false }
+      - { label: "Yakutça", name: "sah", widget: "string", required: false }
+      - { label: "Tatarca", name: "tt", widget: "string", required: false }
+      - { label: "Başkurtça", name: "ba", widget: "string", required: false }
+  */
+
+  // for languages that exist add them to t
+  if (az) t["Azerice"] = az;
+  if (tk) t["Türkmence"] = tk;
+  if (gag) t["Gagavuzca"] = gag;
+  if (chv) t["Çuvaşça"] = chv;
+  if (tyv) t["Tuvaca"] = tyv;
+  if (kjh) t["Hakasça"] = kjh;
+  if (kk) t["Kazakça"] = kk;
+  if (ky) t["Kırgızca"] = ky;
+  if (crh) t["Kırım Tatarcası"] = crh;
+  if (vot) t["Volga Tatarcası"] = vot;
+  if (kaa) t["Karakalpakça"] = kaa;
+  if (uz) t["Özbekçe"] = uz;
+  if (ug) t["Uygurca"] = ug;
+  if (alt) t["Altayca"] = alt;
+  if (sah) t["Yakutça"] = sah;
+  if (tt) t["Tatarca"] = tt;
+  if (ba) t["Başkurtça"] = ba;
+  
+
+  
+
 } else if (url.startsWith("/sozluk/-ekler/")) {
   word = "Ek"
 } else if (url.startsWith("/pt/-ekler")) {
   word = "Ek"
-}
+} 
 
 ---
 
@@ -22,6 +67,9 @@ if (url.startsWith("/pt/")) {
 <Default ><slot /></Default>
 </div>
 
+{
+
+}
  
 <div data-pagefind-filter="Sözlük" hidden>
   {word}
