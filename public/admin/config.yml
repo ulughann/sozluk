@@ -56,6 +56,7 @@ collections:
         widget: "list"
         required: false
         allow_add: true
+      - { label: "İçerik", name: "body", widget: "markdown" }
 
   - name: "pt-ekler"
     label: "Ön Türkçe Ekler"
