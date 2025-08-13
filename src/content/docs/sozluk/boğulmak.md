@@ -11,4 +11,6 @@ variants: []
 ---
 _Eski Türkçe boġ-_ “sıkmak, boğazını sıkarak öldürmek” + -Ul -> dışarıdan bir etmen ile boğulmak.
 
+> Azerbaycanca boğulmaq - Son dərəcə sıxıntı, təzyiq, mənəvi və cismani əzab hiss etmək
+
 Kendi kendine boğulmak için -> [boğunmak](/sozluk/boğunmak)
