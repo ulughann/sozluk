@@ -1,11 +1,11 @@
 ---
 title: sab-
-description: Ön Türkçe Sözlük - sab-
+description: 'Ön Türkçe Sözlük : sab-'
 type:
   - fiil
 variants: []
 ---
-**TT. sav-**
+**TT. Sav-**
 
 _Durdurulmak, zorluk çıkarılmak, bitmek_
 
