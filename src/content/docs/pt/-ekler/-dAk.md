@@ -1,5 +1,5 @@
 ---
-title: +dAk
+title: -dAk
 ---
 Clauson aşırı ender ve amacının belirsiz olduğunu yazar.
 
