@@ -13,7 +13,7 @@ export default defineConfig({
       autoTheme: true,
     }),
     starlight({
-      favicon: "./public/favicon.svg",
+      favicon: "./src/assets/favicon.svg",
       logo: {
         dark: "./src/assets/dark.png",
         light: "./src/assets/light.png",

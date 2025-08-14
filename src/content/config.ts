@@ -7,7 +7,7 @@ const extendedSchema = pageThemeObsidianSchema.extend({
   synonyms: z.array(z.string()).optional(),
   variants: z.array(z.string()).optional(),
   type: z.array(z.enum(["isim", "fiil", "sıfat", "bağlaç", "edat", "zamir", "ünlem", "zarf", "diğer"])).optional(),
-  category: z.array(z.enum(["Doğal bilimler", "Sayı bilim", "Sosyal bilimler", "Yazın bilim", "Sanat", "Günlük yaşam", "Yazılım ve teknoloji", "Bitki bilim", "Tıp", "Tarım", "Hukuk"])).optional(),
+  category: z.array(z.enum(["Doğal bilimler", "Sayı bilim", "Sosyal bilimler", "Yazın bilim", "Sanat", "Günlük yaşam", "Yazılım ve teknoloji", "Bitki bilim", "Tıp", "Tarım", "Hukuk"])).optional()
 });
 
 type ExtendedSchema = z.infer<typeof extendedSchema>;
