@@ -9,7 +9,6 @@ collections:
       - { label: "Açıklama", name: "description", widget: "compute", required: false, value: 'Öz Türkçe Sözlük : {{fields.title}}, {{fields.title}} ne demek?' }
       - { label: "Sözcük türü", name: "type", widget: "select", multiple: true, options: ["isim", "fiil", "sıfat", "bağlaç", "edat", "zamir", "ünlem", "zarf", "diğer"], default: "isim" }
       - { label: "Kategori", required: false, name: "category", widget: "select", multiple: true, options: ["Doğal bilimler", "Sayı bilim", "Sosyal bilimler", "Yazın bilim", "Sanat", "Günlük yaşam", "Yazılım ve teknoloji", "Bitki bilim", "Tıp", "Tarım", "Hukuk"], default: [] }
-      - { label: "Tarih" , name: "lastUpdated", widget: "datetime", required: false, default: '{{now}}', picker_utc: true}
       - label: "Eş anlamlılar"
         name: "synonyms"
         widget: "list"
@@ -38,7 +37,6 @@ collections:
     create: true
     fields:
       - { label: "Yazı", name: "title", widget: "string" }
-      - { label: "Tarih", name: "lastUpdated", widget: "datetime", required: false, picker_utc: true }
       - { label: "Açıklama", name: "description", widget: "text", required: false }
       - { label: "İçerik", name: "body", widget: "markdown" }
 
@@ -51,7 +49,6 @@ collections:
       - { label: "Sözcük", name: "title", widget: "string" }
       - { label: "Açıklama", name: "description", widget: "compute", required: false, value: 'Ön Türkçe Sözlük : {{fields.title}}' }
       - { label: "Sözcük türü", name: "type", widget: "select", multiple: true, options: ["isim", "fiil", "sıfat", "bağlaç", "edat", "zamir", "ünlem", "zarf", "diğer"], default: "isim" }
-      - { label: "Tarih" , name: "lastUpdated", widget: "datetime", required: false, default: '{{now}}', picker_utc: true }
       - label: "Varyantlar"
         name: "variants"
         widget: "list"
