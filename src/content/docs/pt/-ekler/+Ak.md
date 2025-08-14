@@ -1,5 +1,5 @@
 ---
-title: +Ak
+title: +Ak, +Ik
 ---
 Küçültme ekidir. Aynı görevde Farçsa +Ak ile bilinen bir ilişkisi yoktur.
 
@@ -8,3 +8,11 @@ Küçültme ekidir. Aynı görevde Farçsa +Ak ile bilinen bir ilişkisi yoktur.
 > Kısır -> kısrak
 
 [+Ug](/pt/-ekler/+Ug) ile karıştırılabilir.
+
+## +Ik
+
++Ak ile aynı görevdedir.
+
+Soğdca _-yk "küçültme eki"&#32;_ ile etkileşim sonucunda oluşmuş bir varyant olabilir.
+
+> Kirpi > kirpik (Clauson)
