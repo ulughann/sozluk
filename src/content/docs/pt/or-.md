@@ -3,7 +3,6 @@ title: or-
 description: 'Ön Türkçe Sözlük : or-'
 type:
   - fiil
-lastUpdated: ''
 variants:
   - ora-
 ---

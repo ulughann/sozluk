@@ -3,7 +3,6 @@ title: orman
 description: 'Ön Türkçe Sözlük : orman'
 type:
   - isim
-lastUpdated: ''
 variants: []
 ---
 Bu sözcük [orum](/pt/orum) "kesilecek şey, ağaç" sözcüğünden +An çoğul eki ile türetilmiştir.

@@ -3,7 +3,6 @@ title: ıřmak
 description: 'Ön Türkçe Sözlük : ıřmak'
 type:
   - isim
-lastUpdated: ''
 variants:
   - ıyrmak
   - yırmak
