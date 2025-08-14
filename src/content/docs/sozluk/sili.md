@@ -34,3 +34,4 @@ Eski Uygurca (silik, “arı, soylu”),  Tatarca сылу (sılu), Başkurtça 
 > Bir ömür dost (olan) pek hoş.
 > Ey hoşlanp sevdiğim yar
 > Herkesten fazla - sen pek hoş
+> -Çeviri : [Hüseyin Avni Dağlı](https://lyricstranslate.com/tr/translator/vodkapivo)
