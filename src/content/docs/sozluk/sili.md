@@ -7,7 +7,8 @@ category: []
 synonyms:
   - hoş
   - güzel
-variants: []
+variants:
+  - Sılı, sulu
 ---
 Bu sözcük Ön Türkçe [siil-](/pt/siil-) "silmek" fiilinden +I(g) eki ile türetilmiştir.
 
