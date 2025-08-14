@@ -1,5 +1,5 @@
 ---
-title: +Ak, +Ik
+title: -Ak, -Ik
 ---
 Küçültme ekidir. Aynı görevde Farçsa +Ak ile bilinen bir ilişkisi yoktur.
 
@@ -7,9 +7,9 @@ Küçültme ekidir. Aynı görevde Farçsa +Ak ile bilinen bir ilişkisi yoktur.
 
 > Kısır -> kısrak
 
-[+Ug](/pt/-ekler/+Ug) ile karıştırılabilir.
+-[Ug](/pt/-ekler/-Ug)[ ](/pt/-ekler/-Ug)ile karıştırılabilir.
 
-## +Ik
+## -Ik
 
 +Ak ile aynı görevdedir.
 
