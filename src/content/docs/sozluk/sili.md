@@ -11,7 +11,7 @@ variants: []
 ---
 Bu sözcük Ön Türkçe [siil-](/pt/siil-) "silmek" fiilinden +I(g) eki ile türetilmiştir.
 
-Eski Uygurca (silik, “arı, soylu”);[1] Tatarca сылу (sılu), Başkurtça һылыу (hılıw), Kırgızca сулуу (suluu), Güney Altayca сылу (sïlu), Özbekçe suluv (“güzel, yakışıklı”); Hakasça сіліг (sìlìg, “güzel”).
+Eski Uygurca (silik, “arı, soylu”),  Tatarca сылу (sılu), Başkurtça һылыу (hılıw), Kırgızca сулуу (suluu), Güney Altayca сылу (sïlu), Özbekçe suluv (“güzel, yakışıklı”); Hakasça сіліг (sìlìg, “güzel”).
 
 > Jaz gülındej jaýnağan  
 > Masatıdaý jer sulu  
