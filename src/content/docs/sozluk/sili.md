@@ -19,9 +19,9 @@ Eski Uygurca (silik, “arı, soylu”),  Tatarca сылу (sılu), Başkurtça 
 > Aqqu-qazdar toýlağan  
 > Aýdyn şalqar köl sulu 
 > 
-> Ózgeden de eń sulu 
+> Ózgeden de eń sulu
 > Ómırlik dos teń sulu  
-> Ózim súıip uńatqan  
+> Ózim súıip uńatqan 
 > Bárinen de sen sulu, sen sulu
 >  -Orda, Sen Sulu
 
