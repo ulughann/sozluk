@@ -7,7 +7,7 @@ type:
 lastUpdated: ''
 variants: []
 ---
-[or-](/pt/or-) "yerleşmek, oturmak" + -Ut -> orut "yerleştirmek" + -U -> Orutu  "Orta" (Eski Türkçe) > Orta
+_orta_ < Eski Türkçe _ortu_ "orta" < Eski Türkçe _\*orutu_ "orta" _orut-_ "yerleştirmek" **+I(g)** < [or-](/pt/or-) "yerleşmek, oturmak" **+Ut-** **+I(g)**
 
 > birgerü kün ortusıŋaru ... yırgaru tün ortusıŋaru - güneye öglen yönüne, kuzeye gece yönüne (Orhun Yazıtları)
 
