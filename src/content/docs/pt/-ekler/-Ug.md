@@ -1,5 +1,5 @@
 ---
-title: +Ug
+title: -Ug
 ---
 Fiilden isim türetir. Türkiye Türkeçsinde +U (+U, +Ü, +I, +İ) formunu alır 
 
