@@ -7,7 +7,7 @@ Küçültme ekidir. Aynı görevde Farçsa +Ak ile bilinen bir ilişkisi yoktur.
 
 > Kısır -> kısrak
 
--[Ug](/pt/-ekler/-Ug) ile karıştırılabilir.
+-[Ug](/pt/-ekler/-ug) ile karıştırılabilir.
 
 ## -Ik
 
