@@ -3,7 +3,6 @@ title: orak
 description: 'Ön Türkçe Sözlük : orak'
 type:
   - isim
-lastUpdated: ''
 variants: []
 ---
 **T.T. Orak**

@@ -3,7 +3,6 @@ title: oruk
 description: 'Ön Türkçe Sözlük : oruk'
 type:
   - isim
-lastUpdated: ''
 variants:
   - oruq
 ---
