@@ -16,4 +16,4 @@ Hakasça ve Şorca or- "oturmak, yerleşmek" sözcüğü mevcuttur
 
 > Or- "oturmak, yerleşmek, konaklamak" (N. A. Baskakov – _Хакасско-русский словарь [Hakaşça-Rusça Sözlük]_)
 
-> Or- "kesmek, biçmek, vurmak" (Göktürkçe sözlük)
+> Or- "kesmek, biçmek, vurmak" (Göktürkçe, Türkbitig)
