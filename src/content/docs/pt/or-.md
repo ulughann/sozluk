@@ -8,8 +8,10 @@ variants:
   - ora-
 ---
 1. Kesmek, biçmek
-2.  Yerleşmek
+2.  Yerleşmek, oturmak
 
 Birinci anlam hemen hemen tüm Türk dillerinde yaygındır.
 
-İkinci anlama Shavkat Rahmatullayev'in Özbekçenin Etimolojik Sözlüğü eserinde yer verilir.
+Hakasça ve Şorca or- "oturmak, yerleşmek" sözcüğü mevcuttur
+
+> Or- "oturmak, yerleşmek, konaklamak" (N. A. Baskakov – _Хакасско-русский словарь [Hakaşça-Rusça Sözlük]_)
