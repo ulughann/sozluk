@@ -9,9 +9,9 @@ variants:
 1. Kesmek, biçmek
 2.  Yerleşmek, oturmak
 
-Birinci anlam hemen hemen tüm Türk dillerinde yaygındır.
+Birinci anlamdan türemiş sözcükler hemen hemen tüm Türk dillerinde yaygındır.
 
-Hakasça ve Şorca or- "oturmak, yerleşmek" sözcüğü mevcuttur
+Hakasça ve Şorca or- "oturmak, yerleşmek" sözcüğü  ikinci anlamı kanıtlar niteliktedir.
 
 > Or- "oturmak, yerleşmek, konaklamak" (N. A. Baskakov – _Хакасско-русский словарь [Hakaşça-Rusça Sözlük]_)
 
