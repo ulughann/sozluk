@@ -1,12 +1,12 @@
 ---
-title: orta
-description: 'Ön Türkçe Sözlük : orta'
+title: ortu
+description: 'Ön Türkçe Sözlük : ortu'
 type:
   - isim
   - sıfat
 variants: []
 ---
-_orta_ < Eski Türkçe _ortu_ "orta" < Eski Türkçe _\*orutu_ "orta" < [_orut-_](/pt/orut-) "yerleştirmek" **+I(g)** < [_or-_](/pt/or-) "yerleşmek, oturmak" **+Ut-** **+I(g)**
+_orta_ < Eski Türkçe _ortu_ "orta" < Ön Türkçe _\*orutu_ "orta" < [_orut-_](/pt/orut-) "yerleştirmek" **+I(g)** < [_or-_](/pt/or-) "yerleşmek, oturmak" **+Ut-** **+I(g)**
 
 > birgerü kün ortusıŋaru ... yırgaru tün ortusıŋaru - güneye öglen yönüne, kuzeye gece yönüne (Orhun Yazıtları)
 
