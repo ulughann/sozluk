@@ -1,6 +1,6 @@
 ---
 title: aag
-description: Ön Türkçe Sözlük - aag
+description: 'Ön Türkçe Sözlük : aag'
 type:
   - isim
 variants:
@@ -10,8 +10,10 @@ variants:
 ---
 **T.T. Ağ**
 
-Bu sözcük ye- anlamındaki [aa-](/pt/aa-) fiilinden +g eki ile türetilmiştir. Ön Türkçede hece sonundaki G, Ğ diye okunur.
+Ön Türkçe _\*āg_ "ağ" < Ön Türkçe [_\*ā-_](/pt/aa-/) "yemek yemek" **[+U(g)](/pt/-ekler/-ug/)**
 
-Sözcüğün asıl anlamı *tuzak* iken Batı Türk Dillerinde *örümcek ağı* anlamını kazanmıştır. 
+Ön Türkçede hece sonundaki G, Ğ diye okunur.
+
+Sözcüğün asıl anlamı _tuzak_ iken Batı Türk Dillerinde _örümcek ağı_ anlamını kazanmıştır. 
 
 [aab](/pt/aab) maddesine de bakınız.
