@@ -7,4 +7,4 @@ variants: []
 ---
 **T.T. Kesilecek şey,  odun, ağaç**
 
-Bu sözcük [or-](/pt/or-) "kesmek, biçmek" sözünden +Um eki ile üretilmiştir.
+Ön Türkçe _*orum_ "kesim" < Ön Türkçe [_*or-_](/pt/or-) "kesmek, biçmek" **+Um**
