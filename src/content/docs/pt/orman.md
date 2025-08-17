@@ -5,6 +5,6 @@ type:
   - isim
 variants: []
 ---
-Bu sözcük [orum](/pt/orum) "kesilecek şey, ağaç" sözcüğünden +An çoğul eki ile türetilmiştir.
+Ön Türkçe _*orman_ "orman" < "Ön Türkçe [_*orum_](/pt/orum) "kesilecek şey, ağaç" +An
 
 > bu çakda bu yirde bir uluğ orman bar irdi (Oğuzname 14.yy.dan önce)
