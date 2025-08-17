@@ -10,7 +10,7 @@ variants:
 ---
 **T.T. Av**
 
-[aa-](/pt/aa-/) fiilinden türetilmiştir olabilir ancak +b ekinin yapısı açık değildir. 
+Ön Türkçe _*āb_ "av" < Ön Türkçe [_*ā-_](/pt/aa-/) "yemek yemek" **+b?**
 
 Ön Türkçede hece sonundaki B, V şeklinde okunur.
 
