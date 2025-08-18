@@ -5,6 +5,6 @@ type:
   - fiil
 variants: []
 ---
-**T.T. yanmak, parlamak**
+**T.T. yanmak, parlatmak**
 
 hipotetik köktür.
