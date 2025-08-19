@@ -10,9 +10,7 @@ variants:
 ---
 **T.T. Ağ**
 
-Ön Türkçe _\*āg_ "ağ" < Ön Türkçe [_\*ā-_](/pt/aa-/) "yemek yemek" **[+U(g)](/pt/-ekler/-ug/)**
-
-Ön Türkçede hece sonundaki G, Ğ diye okunur.
+Ön Türkçe _\*āg_ "ağ" < Ön Türkçe [_\*ā-_](/pt/aa-/) "yemek yemek" [**+U(g)**](/pt/-ekler/-ug/)
 
 Sözcüğün asıl anlamı _tuzak_ iken Batı Türk Dillerinde _örümcek ağı_ anlamını kazanmıştır. 
 
