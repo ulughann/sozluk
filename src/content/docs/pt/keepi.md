@@ -10,4 +10,4 @@ variants:
   - geebi
   - keebi
 ---
-[kee](/pt/keep) "biçim, form" + I "iyelik eki" (Oʻzbek tilining etimologik lugʻati)
+[keep](/pt/keep) "biçim, form" + I "iyelik eki" (Oʻzbek tilining etimologik lugʻati)
