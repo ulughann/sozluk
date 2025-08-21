@@ -5,6 +5,7 @@ type:
   - sıfat
 variants:
   - ilik
+  - ilk
 ---
 Bu sözcük [il](/pt/il) "ön" sözcüğüne +Ik ekinin getirilmesi ile oluşturulmuştur.
 
