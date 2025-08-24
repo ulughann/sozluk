@@ -1,5 +1,5 @@
 ---
-title: -AgU
+title: -Agu, -Egü
 ---
 
 Sayı sözlerinden grup adı oluşturur.

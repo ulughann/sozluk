@@ -1,5 +1,5 @@
 ---
-title: -Ak, -Ik
+title: -Ak, -Ek, -Ik, -İk
 ---
 Küçültme ekidir. Aynı görevde Farçsa +Ak ile bilinen bir ilişkisi yoktur.
 

@@ -1,5 +1,5 @@
 ---
-title: -AgUt
+title: -Agut, -Egüt
 ---
 
 Pekiştirme eki olabilir?

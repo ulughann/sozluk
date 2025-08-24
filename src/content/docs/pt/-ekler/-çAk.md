@@ -1,5 +1,5 @@
 ---
-title: -çAk, -çIk, -Iç
+title: -çAk, -çek -çIk, -çik -Iç, -iç
 ---
 Küçültme ekidir.
 
