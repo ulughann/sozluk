@@ -5,10 +5,10 @@ type:
   - isim
 variants: []
 ---
-[Topra-](/pt/topra-) "kurumak" fiilinden +Ak eki ile türetilmiştir.
+Ön Türkçe _*toprak_ "toprak" < [*topra-](/pt/topra-) "kurumak" **+gAk**
 
-Moğolca tobrag bir Türk dilinden alıntıdır.
+Moğolca _tobrag_ bir Türk dilinden alıntıdır.
 
 Bkz. Karahanlıca تُبْراماقْ (toprāmāq, “kurumak”) > **تُبُرْغانْ**  topurğān "toprak"
 
-> Suburğāndā ew bōlmas, topurğāndā āw bōlmas. ― Mezarlıkta ev olmaz, toprakta av ([aab](/pt/aab)) olmaz. (Karahanlıac)
+> Suburğāndā ew bōlmas, topurğāndā āw bōlmas. ― Mezarlıkta ev olmaz, toprakta av ([aab](/pt/aab)) olmaz. (Karahanlıca)
