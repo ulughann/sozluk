@@ -1,7 +1,6 @@
 ---
 title: -mAk
 ---
+Eylemlerden ad yapan isim fiil(masdar) ekidir.
 
-Fiillerden isim yapan mastar ekidir.
-
-*tüg- ("bağlamak, düğümlemek") + *-mek → *tügmek ("bağlamak")
+> _\*tügmek_ "bağlamak" < _*tüg-_ "bağlamak, düğümlemek" **+mAk**
