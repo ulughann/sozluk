@@ -1,7 +1,6 @@
 ---
 title: -guçı, -güçi
 ---
+[+gU](/pt/-ekler/-gü) ve [+çI](/pt/-ekler/-çi) eklerinin birleşiminden oluşur.
 
-[-gU](/pt/-ekler/-gü) + [-çI](/pt/-ekler/-çi) eklerinin birleşiminden oluşur.
-
-ay- "konuşmak" + -gUçI -> ayguçı "konuşmacı"
+> _ayguçı_ "konuşmacı, danışman" < _ay-_ "konuşmak" **+gUçI**
