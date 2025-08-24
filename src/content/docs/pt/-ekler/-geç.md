@@ -1,7 +1,8 @@
 ---
 title: -gaç, -geç
 ---
+Adlardan hayvan veya bitki adları türetir.
 
-İsimlerden hayvan veya bitki adları türetir.
+> _ıgaç_ "ağaç" < _ı_ "orman, bitki" **+gAç**
 
-*ı "bitki" > ıgaç "ağaç"
+Üstteki örnekten dolayı küçültme eki olabilir.
