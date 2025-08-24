@@ -1,6 +1,6 @@
 ---
 title: Ermik
-description: Öz Türkçe Sözlük - Ermik 
+description: Öz Türkçe Sözlük - Ermik
  - Ermik ne demek?
 category:
   - Doğal bilimler
@@ -11,4 +11,4 @@ synonyms:
 ---
 Birçok bitkinin olgunlaşması ile çiçeklenmesini etkileyen bir hormondur
 
-er- "ulaşmak, olgunluğa ulaşmak" + [_mUk](/sozluk/-ekler/muk) küçük nesne, kırıntı, döküntü anlamına gelen adlar üreten ek.
+er- "ulaşmak, olgunluğa ulaşmak" + [_mUk](/sozluk/-ekler/mük) küçük nesne, kırıntı, döküntü anlamına gelen adlar üreten ek.
