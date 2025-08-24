@@ -1,7 +1,6 @@
 ---
 title: -k
-----
+---
+Eylemlerden geçişsiz edilgen ad yapar.
 
-Fiillerden geçişsiz pasif isim yapar.
-
-*uŕa- ("uzamak") + *-k → *uŕak (“uzak, uzun (zaman))
+> _*uŕak_ "uzak, uzun (zaman)" < _\*uŕa-_ ("uzamak") **\*+k**

@@ -3,6 +3,6 @@ title: -ıg, -ig, -ug, -üg
 ---
 Eylemden ad türetir. Türkiye Türkçesinde +U (+U, +Ü, +I, +İ) biçimini alır.
 
-**+U&#32;**- baskın ünlü değildir, ünlü ile biten söze geldiğinde düşer. (ȫ -> ȫg).
+**+U-** baskın ünlü değildir, ünlü ile biten söze geldiğinde düşer. (ȫ -> ȫg).
 
-> \*āčï- -> \*āčïg
+> _\*āčïg_ "acı" < _\*āčï-_ "acımak" **+Ig**

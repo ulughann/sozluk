@@ -1,10 +1,9 @@
 ---
 title: -Agu, -Egü
 ---
-
 Sayı sözlerinden grup adı oluşturur.
 
-*bīr-egü -> biregu -> Türkiye Türkçesi *birey*
+Türkiye Türkçesi _*birey_ < Eski Türkçe _biregü_ < _bīr_ "bir" **+AgU**
 
 Göktürkçe:
 

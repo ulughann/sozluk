@@ -1,7 +1,6 @@
 ---
 title: -ım, -im, -um, -üm
 ---
+Eylemlerden soyut kavram adı ve tek seferlik adları yapar.
 
-Fiillerden soyut kavram adı yapar.
-
-*öl- (ölmek) + *-um → *ölüm (ölüm)
+> _*ölüm_ "ölüm" < _*öl-_ "ölmek" **+Um**

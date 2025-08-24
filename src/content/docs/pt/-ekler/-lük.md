@@ -1,7 +1,6 @@
 ---
 title: -luk, -lük
 ---
+Sıfatları adlaştırır.
 
-Sıfatları isimleştirir.
-
-Küüçlüg "güçlü" -> küüçlüglük "güçlülük"
+> _\*kǖçlüglük_ "güçlülük" < _\*kǖçlüg_ "güçlü" **+lUk**

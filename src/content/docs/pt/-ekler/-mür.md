@@ -1,11 +1,10 @@
 ---
 title: -mur, -mür
 ---
+Eylemlerden ad yapar.
 
-Fiillerden isim yapar.
+> _almır_ "açgözlülük" < _al-_ "almak" **\*+mUr**
 
-al- ("almak") + *-mUr → almır ("açgözlülük")
+> _yagmur_ ("yağmur") < _yag-_ "yağmak" **\*+mUr**
 
-yag- ("yağmak") + *-mUr → yagmur ("yağmur")
-
-kööń- ("yanmak, tutuşmak") + *-mUr → kööńmür ("kömür")
+> _kȫńmür_ "kömür" < _kȫń-_ "yanmak, tutuşmak" **\*+mUr**

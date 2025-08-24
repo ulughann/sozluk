@@ -1,9 +1,8 @@
 ---
 title: -gak, -gek
 ---
+Eylemlerden ad yapar.
 
-Fiillerden isim yapar.
-
-bıç "biçmek" + -gAk → bıçgak "bıçak"
+> Türkiye Türkçesi _bıçak_ "bıçak" < Eski Türkçe _bıçgak_ "bıçak" < _bıç-_ "biçmek" \*\*+gAk\*\*
 
 Türkiye Türkçesindeki hemen hemen tüm örneklerde g düşer.
