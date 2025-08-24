@@ -1,5 +1,5 @@
 ---
-title: -Um
+title: -ım, -im, -um, -üm
 ---
 
 Fiillerden soyut kavram adı yapar.

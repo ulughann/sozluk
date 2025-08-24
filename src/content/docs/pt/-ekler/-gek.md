@@ -1,5 +1,5 @@
 ---
-title: -gAk
+title: -gak, -gek
 ---
 
 Fiillerden isim yapar.

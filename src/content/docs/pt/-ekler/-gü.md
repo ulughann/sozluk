@@ -1,5 +1,5 @@
 ---
-title: -gU
+title: -gu, -gü
 ---
 
 1. Fiillerden isim yapar.

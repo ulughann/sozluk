@@ -1,5 +1,5 @@
 ---
-title: -mUr
+title: -mur, -mür
 ---
 
 Fiillerden isim yapar.

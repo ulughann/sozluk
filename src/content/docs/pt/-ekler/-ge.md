@@ -1,5 +1,5 @@
 ---
-title: -gA
+title: -ga, -ge
 ---
 
 Fiillerden isim veya isimlerden bitki veya hayvan adları üretir.

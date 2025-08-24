@@ -1,7 +1,7 @@
 ---
-title: -Ug
+title: -ıg, -ig, -ug, -üg
 ---
-Eylemden ad türetir. Türkiye Türkçesinde +U (+U, +Ü, +I, +İ) biçimini alır. 
+Eylemden ad türetir. Türkiye Türkçesinde +U (+U, +Ü, +I, +İ) biçimini alır.
 
 **+U&#32;**- baskın ünlü değildir, ünlü ile biten söze geldiğinde düşer. (ȫ -> ȫg).
 

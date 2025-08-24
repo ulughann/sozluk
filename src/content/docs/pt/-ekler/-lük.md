@@ -1,5 +1,5 @@
 ---
-title: -lUk
+title: -luk, -lük
 ---
 
 Sıfatları isimleştirir.

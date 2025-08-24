@@ -1,5 +1,5 @@
 ---
-title: -gAAn
+title: -gaan, -geen
 ---
 
 Fiillerden isim türeten ve fiillerin şimdiki zaman ortaç (sıfat-fiil) ekidir.
