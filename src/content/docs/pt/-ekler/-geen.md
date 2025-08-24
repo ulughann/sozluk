@@ -1,11 +1,10 @@
 ---
 title: -gaan, -geen
 ---
+Eylemlerden ad türetir. Eylemlerin şimdiki zaman ortaç (sıfat-fiil) ekidir.
 
-Fiillerden isim türeten ve fiillerin şimdiki zaman ortaç (sıfat-fiil) ekidir.
+> _sebgēn_ "seven" < _seb-_ "sevmek" **+gĀn**
 
-seb- "sevmek" + -gAAn → sebgeen "seven"
+> _*tabïlgān_ "tavşan" < _*tabïĺ-_ "koşmak" **+gĀn**
 
-tabïĺ- "koşmak" + -gAAn → tabïlgaan "tavşan"
-
-Ekin uzun ünlü niteliği Karahanlıca kanıtlar.
+Ekin uzun ünlü niteliğini Karahanlıca kanıtlar.
