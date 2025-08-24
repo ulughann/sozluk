@@ -1,17 +1,12 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import starlightThemeObsidian from "starlight-theme-obsidian";
-import mermaid from "astro-mermaid";
 import starlightLinksValidator from "starlight-links-validator";
 // https://astro.build/config
 export default defineConfig({
   site: "https://sozluk.ulug.tr",
   base: "/",
   integrations: [
-    mermaid({
-      theme: "forest",
-      autoTheme: true,
-    }),
     starlight({
       favicon: "./src/assets/favicon.svg",
       logo: {
