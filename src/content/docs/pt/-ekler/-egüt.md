@@ -1,9 +1,8 @@
 ---
 title: -Agut, -Egüt
 ---
-
 Pekiştirme eki olabilir?
 
-*alp "savaşçı" + -egüt → *alpagut "savaşçı"
+_*alpagut_ "kahraman" < _*alp_ "1. yiğit, cesur 2. güç, zor" **+AgUt**
 
 Eski Türkçe dışında kaydı yoktur.
