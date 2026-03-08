@@ -2,7 +2,6 @@
   "name": "sozlugum",
   "type": "module",
   "version": "0.0.1",
-  "packageManager": "pnpm@10.29.3",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -12,16 +11,16 @@
     "pdf": "npm run build && (npm run preview > /dev/null & sleep 5); lsof -ti:4321 > preview.pid; npx starlight-to-pdf http://localhost:4321 -p ./public/_pdf --filename docs --pdf-outline; kill $(cat preview.pid) && rm preview.pid && echo 'PDF script finished'"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.34.8",
-    "astro": "^5.18.0",
+    "@astrojs/starlight": "^0.34.7",
+    "astro": "^5.11.1",
     "astro-feelback": "^0.3.4",
-    "decap-cms-app": "^3.10.1",
-    "sharp": "^0.32.6",
-    "starlight-links-validator": "^0.17.2",
-    "starlight-site-graph": "^0.5.0",
-    "starlight-theme-obsidian": "^0.4.1"
+    "decap-cms-app": "^3.1.10",
+    "sharp": "^0.32.5",
+    "starlight-links-validator": "^0.17.0",
+    "starlight-site-graph": "^0.4.1",
+    "starlight-theme-obsidian": "^0.4.0"
   },
   "devDependencies": {
-    "astro-vtbot": "^1.10.7"
+    "astro-vtbot": "^1.7.16"
   }
 }
