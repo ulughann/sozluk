@@ -18,8 +18,8 @@ export default defineConfig({
       defaultLocale: "root",
       locales: {
         root: {
-          label: "Türkçe",
-          lang: "tr",
+          label: "English",
+          lang: "en",
         },
       },
       plugins: [
@@ -38,7 +38,7 @@ export default defineConfig({
       ],
       sidebar: [
         {
-          label: "Bilgin Sözlük",
+          label: "Common Turkic",
           autogenerate: { directory: "sozluk" },
         },
       ],
@@ -46,28 +46,23 @@ export default defineConfig({
         PageTitle: "./src/components/starlight/PageTitle.astro",
         MarkdownContent: "./src/components/starlight/MarkdownContent.astro",
       },
-      title: "Bilgin Sözlük",
+      title: "Common Turkic Dictionary",
       pagination: false,
       customCss: ["./src/styles/s.css"],
       sidebar: [
         {
-          label: "Yazılar",
+          label: "Articles",
           autogenerate: { directory: "yazilar" },
           collapsed: false,
         },
         {
-          label: "Türkiye Türkçesi",
+          label: "Common Turkic",
           autogenerate: { directory: "sozluk" },
           collapsed: true,
         },
         {
-          label: "Ekler",
+          label: "Affixes",
           autogenerate: { directory: "ekler" },
-          collapsed: true,
-        },
-        {
-          label: "Ön Türkçe",
-          autogenerate: { directory: "pt" },
           collapsed: true,
         },
       ],
